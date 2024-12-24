@@ -1,92 +1,93 @@
-{
-    "2025": {
-        "11": {
-            "14": {
-                "episode": "http://hellojarat.hu/episode/new-york-roma-budapest/",
-                "episode_date": "2024-11-14",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/8bu2icsf55hir9qzwrk32/album.jpg?rlkey=cvh2zc1ihb3tlpnrw6ptvtflo&st=4gp3ht9u&raw=1",
-                    "description": "Martin Buscaglia & Julieta Rada",
-                    "song": "Martin Buscaglia & Julieta Rada – Hablando de Roma",
-                    "spotifylink": "https://open.spotify.com/track/29roQJh2CqiLV271F1pta6?si=3a812a50d88e4271"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/adzid04a5uqurqght5jvg/picture.jpg?rlkey=q02c5f3cwkc8j8g8fvglavixp&st=w7olhsvs&raw=1",
-                    "description": "Salvador Dali"
-                }
-            },
-            "28": {
-                "episode": "http://hellojarat.hu/episode/kosarmeccs-munchenben-erotika-a-biedermeierben-tudatossag-az-alvasban/",
-                "episode_date": "2024-11-25",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/73vtdd8670vtmgcqv1exo/album.jpg?rlkey=sbo6jb3vvpcevc49cvcecauxk&st=ewtrfodd&raw=1",
-                    "description": "Tigerbalm",
-                    "song": "Tigerbaum ft. Joao Selva – Vem Cá",
-                    "spotifylink": "https://open.spotify.com/track/137ua7va2D4FcuKeyvjEVL?si=b24e78d7ca814463"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/jj84synbhgf4c7m0qqrk2/picture.jpg?rlkey=hzb3fdbw9txn4ejovsp5h9yd9&st=048kx51u&raw=1",
-                    "description": ""
-                }
-            },
-            "29": {
-                "episode": "http://hellojarat.hu/episode/machanek-kosarlabda-nora-john-malkovich-plusz-szaunazzon-aki-csak-tud/",
-                "episode_date": "2024-11-29",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/66r20vrgqs0c1kyuexuly/album.jpg?rlkey=xizjvsuuuytxfn2oz53pred4t&st=qvylqq2w&raw=1",
-                    "description": "BADBADNOGOOD",
-                    "song": "BADBADNOGOOD feat. Tim Bernandes – Poeira Cosmica",
-                    "spotifylink": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR?si=0cc7d3ffec484495"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/6ag1wvoik2n6mmruqfy1u/picture.jpg?rlkey=fnc79oqp3rp7pcox1xts9g8qm&st=6ggh1omy&raw=1",
-                    "description": "Brancusi szobrok"
-                }
-            }
+  "2024": {
+    "year": 2024,
+    "series": "2024/2025"
+    "12": {
+      "21": {
+        "episode": "https://hellojarat.hu/episode/vonzo-szigetek-humorista-nok-es-kutyaszeru-kutyak/",
+        "episode_date": "2024-12-21",
+        "album": {
+          "photolink": "https://www.dropbox.com/scl/fi/1co0vbmtu4ul6wbmqlzuu/album.jpeg?rlkey=8ersq3jn32verrue084isdcb2&st=ugxm1n5x&raw=1",
+          "description": "Kim Deal",
+          "song": "Kim Deal – Coast",
+          "spotifylink": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf?si=f7a477c2d3634eb0",
         },
-        "12": {
-            "16": {
-                "episode": "http://hellojarat.hu/episode/thanksgiving-beatles-igazabol-szerelem/",
-                "episode_date": "2024-12-16",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/m5ga3qdjs5bm19nmo1tdn/album.jpg?rlkey=wdbcp4x5n9yvzf6vxuyibiwit&st=7t9hnpcf&raw=1",
-                    "description": "Dora Morelembaum",
-                    "song": "Dore Morelembaum – Caco",
-                    "spotifylink": "https://open.spotify.com/track/0xhAG0TeVw5rNVaRslO39m?si=19016e57bb514e01"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/eadp3ur5qnetib2kdaowv/picture.jpg?rlkey=6b410labb93pvv0juu11xdavc&st=brc3ujbq&raw=1",
-                    "description": "Gerhard Richter"
-                }
-            },
-            "21": {
-                "episode": "https://hellojarat.hu/episode/vonzo-szigetek-humorista-nok-es-kutyaszeru-kutyak/",
-                "episode_date": "2024-12-21",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/1co0vbmtu4ul6wbmqlzuu/album.jpeg?rlkey=8ersq3jn32verrue084isdcb2&st=ugxm1n5x&raw=1",
-                    "description": "Kim Deal",
-                    "song": "Kim Deal – Coast",
-                    "spotifylink": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf?si=f7a477c2d3634eb0"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/a3m2vgoldp47xab0h0gu6/picture.jpeg?rlkey=2syxw8uyk2tuktwrsggtk1dl7&st=zlikuimd&raw=1",
-                    "description": "Arnold Böcklint"
-                }
-            },
-            "08": {
-                "episode": "http://hellojarat.hu/episode/new-york-telen-ketszer-becs-telen-egyszer-eric-satie-orokke/",
-                "episode_date": "2024-12-8",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/m7yprw8c4rd0vizaxn9rr/album.png?rlkey=k26gfz7vfnfn7buvufscx9clu&st=o72bu25y&raw=1",
-                    "description": "Steely Dan",
-                    "song": "Steely Dan – Pretzel Logic",
-                    "spotifylink": "https://open.spotify.com/track/4I87004AuztqZ2YEV1vVP9?si=0005d8ee7810412a"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/6cfldivqk5x86j1dfkvsq/picture.jpg?rlkey=wu60h92om9f0y1bo5azn13yxn&st=ftm7plcw&raw=1",
-                    "description": "André Kertész"
-                }
-            }
+        "picture": {
+          "photolink": "https://www.dropbox.com/scl/fi/a3m2vgoldp47xab0h0gu6/picture.jpeg?rlkey=2syxw8uyk2tuktwrsggtk1dl7&st=zlikuimd&raw=1",
+          "description": "Arnold Böcklint"
         }
+      },
+      "16": {
+        "episode": "http://hellojarat.hu/episode/thanksgiving-beatles-igazabol-szerelem/",
+        "episode_date": "2024-12-16",
+        "album": {
+          "photolink": "https://www.dropbox.com/scl/fi/m5ga3qdjs5bm19nmo1tdn/album.jpg?rlkey=wdbcp4x5n9yvzf6vxuyibiwit&st=7t9hnpcf&raw=1",
+          "description": "Dora Morelembaum",
+          "song": "Dore Morelembaum – Caco",
+          "spotifylink": "https://open.spotify.com/track/0xhAG0TeVw5rNVaRslO39m?si=19016e57bb514e01",
+        },
+        "picture": {
+          "photolink": "https://www.dropbox.com/scl/fi/eadp3ur5qnetib2kdaowv/picture.jpg?rlkey=6b410labb93pvv0juu11xdavc&st=brc3ujbq&raw=1",
+          "description": "Gerhard Richter"
+        }
+      },
+      "08": {
+        "episode": "http://hellojarat.hu/episode/new-york-telen-ketszer-becs-telen-egyszer-eric-satie-orokke/",
+        "episode_date": "2024-12-8",
+        "album": {
+          "photolink": "https://www.dropbox.com/scl/fi/m7yprw8c4rd0vizaxn9rr/album.png?rlkey=k26gfz7vfnfn7buvufscx9clu&st=o72bu25y&raw=1",
+          "description": "Steely Dan",
+          "song": "Steely Dan – Pretzel Logic",
+          "spotifylink": "https://open.spotify.com/track/4I87004AuztqZ2YEV1vVP9?si=0005d8ee7810412a",
+        },
+        "picture": {
+          "photolink": "https://www.dropbox.com/scl/fi/6cfldivqk5x86j1dfkvsq/picture.jpg?rlkey=wu60h92om9f0y1bo5azn13yxn&st=ftm7plcw&raw=1",
+          "description": "André Kertész"
+        }
+      }
+    },
+    "11": {
+      "29": {
+        "episode": "http://hellojarat.hu/episode/machanek-kosarlabda-nora-john-malkovich-plusz-szaunazzon-aki-csak-tud/",
+        "episode_date": "2024-11-29",
+        "album": {
+          "photolink": "https://www.dropbox.com/scl/fi/66r20vrgqs0c1kyuexuly/album.jpg?rlkey=xizjvsuuuytxfn2oz53pred4t&st=qvylqq2w&raw=1",
+          "description": "BADBADNOGOOD",
+          "song": "BADBADNOGOOD feat. Tim Bernandes – Poeira Cosmica",
+          "spotifylink": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR?si=0cc7d3ffec484495",
+        },
+        "picture": {
+          "photolink": "https://www.dropbox.com/scl/fi/6ag1wvoik2n6mmruqfy1u/picture.jpg?rlkey=fnc79oqp3rp7pcox1xts9g8qm&st=6ggh1omy&raw=1",
+          "description": "Brancusi szobrok"
+        }
+      },
+      "25": {
+        "episode": "http://hellojarat.hu/episode/kosarmeccs-munchenben-erotika-a-biedermeierben-tudatossag-az-alvasban/",
+        "episode_date": "2024-11-25",
+        "album": {
+          "photolink": "https://www.dropbox.com/scl/fi/73vtdd8670vtmgcqv1exo/album.jpg?rlkey=sbo6jb3vvpcevc49cvcecauxk&st=ewtrfodd&raw=1",
+          "description": "Tigerbalm",
+          "song": "Tigerbaum ft. Joao Selva – Vem Cá",
+          "spotifylink": "https://open.spotify.com/track/137ua7va2D4FcuKeyvjEVL?si=b24e78d7ca814463",
+        },
+        "picture": {
+          "photolink": "https://www.dropbox.com/scl/fi/jj84synbhgf4c7m0qqrk2/picture.jpg?rlkey=hzb3fdbw9txn4ejovsp5h9yd9&st=048kx51u&raw=1",
+          "description": ""
+        }
+      },
+      "14": {
+        "episode": "http://hellojarat.hu/episode/new-york-roma-budapest/",
+        "episode_date": "2024-11-14",
+        "album": {
+          "photolink": "https://www.dropbox.com/scl/fi/8bu2icsf55hir9qzwrk32/album.jpg?rlkey=cvh2zc1ihb3tlpnrw6ptvtflo&st=4gp3ht9u&raw=1",
+          "description": "Martin Buscaglia & Julieta Rada",
+          "song": "Martin Buscaglia & Julieta Rada – Hablando de Roma",
+          "spotifylink": "https://open.spotify.com/track/29roQJh2CqiLV271F1pta6?si=3a812a50d88e4271",
+        },
+        "picture": {
+          "photolink": "https://www.dropbox.com/scl/fi/adzid04a5uqurqght5jvg/picture.jpg?rlkey=q02c5f3cwkc8j8g8fvglavixp&st=w7olhsvs&raw=1",
+          "description": "Salvador Dali"
+        }
+      }
     }
+  }
 }
