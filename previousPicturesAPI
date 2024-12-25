@@ -1,5 +1,7 @@
 {
     "2024": {
+        "year": 2024,
+        "series": "2024/2025",
         "11": {
             "14": {
                 "episode": "http://hellojarat.hu/episode/new-york-roma-budapest/",
@@ -87,9 +89,7 @@
                     "description": "André Kertész"
                 }
             }
-        },
-        "year": 2024,
-        "series": "2024/2025"
+        }
     },
     "2025": {
         "12": {
