@@ -1,51 +1,7 @@
 {
     "2024": {
-      "01": {
-        "1": {
-            "episode": "https://hellojarat.hu/episode/vonzo-szigetek-humorista-nok-es-kutyaszeru-kutyak/",
-            "episode_date": "2024-12-21",
-            "album": {
-                "photolink": "https://www.dropbox.com/scl/fi/1co0vbmtu4ul6wbmqlzuu/album.jpeg?rlkey=8ersq3jn32verrue084isdcb2&st=ugxm1n5x&raw=1",
-                "description": "Kim Deal",
-                "song": "Kim Deal – Coast",
-                "spotifylink": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf?si=f7a477c2d3634eb0"
-            },
-            "picture": {
-                "photolink": "https://www.dropbox.com/scl/fi/a3m2vgoldp47xab0h0gu6/picture.jpeg?rlkey=2syxw8uyk2tuktwrsggtk1dl7&st=zlikuimd&raw=1",
-                "description": "Arnold Böcklint"
-            }
-        },
-          "2": {
-              "episode": "http://hellojarat.hu/episode/thanksgiving-beatles-igazabol-szerelem/",
-              "episode_date": "2024-12-16",
-              "album": {
-                  "photolink": "https://www.dropbox.com/scl/fi/m5ga3qdjs5bm19nmo1tdn/album.jpg?rlkey=wdbcp4x5n9yvzf6vxuyibiwit&st=7t9hnpcf&raw=1",
-                  "description": "Dora Morelembaum",
-                  "song": "Dore Morelembaum – Caco",
-                  "spotifylink": "https://open.spotify.com/track/0xhAG0TeVw5rNVaRslO39m?si=19016e57bb514e01"
-              },
-              "picture": {
-                  "photolink": "https://www.dropbox.com/scl/fi/eadp3ur5qnetib2kdaowv/picture.jpg?rlkey=6b410labb93pvv0juu11xdavc&st=brc3ujbq&raw=1",
-                  "description": "Gerhard Richter"
-              }
-          },
-          "3": {
-              "episode": "http://hellojarat.hu/episode/new-york-telen-ketszer-becs-telen-egyszer-eric-satie-orokke/",
-              "episode_date": "2024-12-8",
-              "album": {
-                  "photolink": "https://www.dropbox.com/scl/fi/m7yprw8c4rd0vizaxn9rr/album.png?rlkey=k26gfz7vfnfn7buvufscx9clu&st=o72bu25y&raw=1",
-                  "description": "Steely Dan",
-                  "song": "Steely Dan – Pretzel Logic",
-                  "spotifylink": "https://open.spotify.com/track/4I87004AuztqZ2YEV1vVP9?si=0005d8ee7810412a"
-              },
-              "picture": {
-                  "photolink": "https://www.dropbox.com/scl/fi/6cfldivqk5x86j1dfkvsq/picture.jpg?rlkey=wu60h92om9f0y1bo5azn13yxn&st=ftm7plcw&raw=1",
-                  "description": "André Kertész"
-              }
-          }
-      },
-        "02": {
-            "1": {
+        "11": {
+            "14": {
                 "episode": "http://hellojarat.hu/episode/new-york-roma-budapest/",
                 "episode_date": "2024-11-14",
                 "album": {
@@ -59,7 +15,7 @@
                     "description": "Salvador Dali"
                 }
             },
-            "2": {
+            "25": {
                 "episode": "http://hellojarat.hu/episode/kosarmeccs-munchenben-erotika-a-biedermeierben-tudatossag-az-alvasban/",
                 "episode_date": "2024-11-25",
                 "album": {
@@ -73,7 +29,7 @@
                     "description": ""
                 }
             },
-            "3": {
+            "29": {
                 "episode": "http://hellojarat.hu/episode/machanek-kosarlabda-nora-john-malkovich-plusz-szaunazzon-aki-csak-tud/",
                 "episode_date": "2024-11-29",
                 "album": {
@@ -88,7 +44,71 @@
                 }
             }
         },
+        "12": {
+            "16": {
+                "episode": "http://hellojarat.hu/episode/thanksgiving-beatles-igazabol-szerelem/",
+                "episode_date": "2024-12-16",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/m5ga3qdjs5bm19nmo1tdn/album.jpg?rlkey=wdbcp4x5n9yvzf6vxuyibiwit&st=7t9hnpcf&raw=1",
+                    "description": "Dora Morelembaum",
+                    "song": "Dore Morelembaum – Caco",
+                    "spotifylink": "https://open.spotify.com/track/0xhAG0TeVw5rNVaRslO39m?si=19016e57bb514e01"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/eadp3ur5qnetib2kdaowv/picture.jpg?rlkey=6b410labb93pvv0juu11xdavc&st=brc3ujbq&raw=1",
+                    "description": "Gerhard Richter"
+                }
+            },
+            "21": {
+                "episode": "https://hellojarat.hu/episode/vonzo-szigetek-humorista-nok-es-kutyaszeru-kutyak/",
+                "episode_date": "2024-12-21",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/1co0vbmtu4ul6wbmqlzuu/album.jpeg?rlkey=8ersq3jn32verrue084isdcb2&st=ugxm1n5x&raw=1",
+                    "description": "Kim Deal",
+                    "song": "Kim Deal – Coast",
+                    "spotifylink": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf?si=f7a477c2d3634eb0"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/a3m2vgoldp47xab0h0gu6/picture.jpeg?rlkey=2syxw8uyk2tuktwrsggtk1dl7&st=zlikuimd&raw=1",
+                    "description": "Arnold Böcklint"
+                }
+            },
+            "08": {
+                "episode": "http://hellojarat.hu/episode/new-york-telen-ketszer-becs-telen-egyszer-eric-satie-orokke/",
+                "episode_date": "2024-12-8",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/m7yprw8c4rd0vizaxn9rr/album.png?rlkey=k26gfz7vfnfn7buvufscx9clu&st=o72bu25y&raw=1",
+                    "description": "Steely Dan",
+                    "song": "Steely Dan – Pretzel Logic",
+                    "spotifylink": "https://open.spotify.com/track/4I87004AuztqZ2YEV1vVP9?si=0005d8ee7810412a"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/6cfldivqk5x86j1dfkvsq/picture.jpg?rlkey=wu60h92om9f0y1bo5azn13yxn&st=ftm7plcw&raw=1",
+                    "description": "André Kertész"
+                }
+            }
+        },
         "year": 2024,
-        "series": "2024/2025"
+        "series": "2024444/2025"
+    },
+    "2025": {
+        "12": {
+            "21": {
+                "episode": "https://hellojarat.hu/episode/vonzo-szigetek-humorista-nok-es-kutyaszeru-kutyak/",
+                "episode_date": "2024-12-21",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/1co0vbmtu4ul6wbmqlzuu/album.jpeg?rlkey=8ersq3jn32verrue084isdcb2&st=ugxm1n5x&raw=1",
+                    "description": "Kim Deal",
+                    "song": "Kim Deal – Coast",
+                    "spotifylink": "https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf?si=f7a477c2d3634eb0"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/a3m2vgoldp47xab0h0gu6/picture.jpeg?rlkey=2syxw8uyk2tuktwrsggtk1dl7&st=zlikuimd&raw=1",
+                    "description": "Arnold Böcklint"
+                }
+            }
+        },
+        "year": 2025,
+        "series": "2024444/2025"
     }
 }
