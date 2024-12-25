@@ -1,7 +1,7 @@
 {
     "2024": {
-      "12": {
-        "21": {
+      "01": {
+        "1": {
             "episode": "https://hellojarat.hu/episode/vonzo-szigetek-humorista-nok-es-kutyaszeru-kutyak/",
             "episode_date": "2024-12-21",
             "album": {
@@ -15,7 +15,7 @@
                 "description": "Arnold Böcklint"
             }
         },
-          "16": {
+          "2": {
               "episode": "http://hellojarat.hu/episode/thanksgiving-beatles-igazabol-szerelem/",
               "episode_date": "2024-12-16",
               "album": {
@@ -29,7 +29,7 @@
                   "description": "Gerhard Richter"
               }
           },
-          "08": {
+          "3": {
               "episode": "http://hellojarat.hu/episode/new-york-telen-ketszer-becs-telen-egyszer-eric-satie-orokke/",
               "episode_date": "2024-12-8",
               "album": {
@@ -44,8 +44,8 @@
               }
           }
       },
-        "11": {
-            "14": {
+        "02": {
+            "1": {
                 "episode": "http://hellojarat.hu/episode/new-york-roma-budapest/",
                 "episode_date": "2024-11-14",
                 "album": {
@@ -59,7 +59,7 @@
                     "description": "Salvador Dali"
                 }
             },
-            "25": {
+            "2": {
                 "episode": "http://hellojarat.hu/episode/kosarmeccs-munchenben-erotika-a-biedermeierben-tudatossag-az-alvasban/",
                 "episode_date": "2024-11-25",
                 "album": {
@@ -73,7 +73,7 @@
                     "description": ""
                 }
             },
-            "29": {
+            "3": {
                 "episode": "http://hellojarat.hu/episode/machanek-kosarlabda-nora-john-malkovich-plusz-szaunazzon-aki-csak-tud/",
                 "episode_date": "2024-11-29",
                 "album": {
