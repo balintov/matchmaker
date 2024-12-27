@@ -94,29 +94,5 @@
             "series": "2024/2025",
             "year": 2024
         }
-    },
-    "1": {
-        "months": {
-            "11": {
-                "14": {
-                    "episode": "http://hellojarat.hu/episode/new-york-roma-budapest/",
-                    "episode_date": "2025-05-03",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/8bu2icsf55hir9qzwrk32/album.jpg?rlkey=cvh2zc1ihb3tlpnrw6ptvtflo&st=4gp3ht9u&raw=1",
-                        "description": "Martin Buscaglia & Julieta Rada",
-                        "song": "Martin Buscaglia & Julieta Rada – Hablando de Roma",
-                        "spotifylink": "https://open.spotify.com/track/29roQJh2CqiLV271F1pta6?si=3a812a50d88e4271"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/adzid04a5uqurqght5jvg/picture.jpg?rlkey=q02c5f3cwkc8j8g8fvglavixp&st=w7olhsvs&raw=1",
-                        "description": "Salvador Dali"
-                    }
-                }
-            }
-        },
-        "metadata": {
-            "year": 2025,
-            "series": "2024/2025"
-        }
     }
 }
