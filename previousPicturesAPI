@@ -1,5 +1,30 @@
 {
-    "2": {
+    "1": {
+        "months": {
+            "12": {
+                "9": {
+                    "episode": "https://hellojarat.hu/episode/csillagos-eg-uj-szolok-belgrad-nagysaga/",
+                    "episode_date": "2025-01-08",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/wqb3dnf4f07i1s6pxojfc/album.jpg?rlkey=1c20u1bl4ofro1e9nmdvrjinv&st=g14vauu1&raw=1",
+                        "description": "El Leon Prado – La Perica",
+                        "song": "Martin Buscaglia & Julieta Rada – Hablando de Roma",
+                        "spotifylink": "https://open.spotify.com/track/2R233lmzKYMsqiocwxqoRS?si=5638f321eb97473b"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/5kmrhqnhokh4nd8uapbe7/picture.jpeg?rlkey=tjd4dezb91cooijv3rndmt6o0&st=3zxifcjj&raw=1",
+                        "description": "Adam Elsheimer"
+                    }
+                }
+            },
+           
+        },
+        "metadata": {
+            "series": "2024/2025",
+            "year": 2025
+        }
+    },
+	"2": {
         "months": {
             "2": {
                 "3": {
