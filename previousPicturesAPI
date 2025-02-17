@@ -1,14 +1,72 @@
 {
     "1": {
         "months": {
+          "11": {
+            "8": {
+                "episode": "https://hellojarat.hu/episode/biedermeier-pop-dus-szakallak-kavekeksz-es-idoutazas/",
+                "episode_date": "2025-02-13",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/tnwqr6nunio2k5b1tdx49/album.jpg?rlkey=i5suy9hnt2njwzkw0jwsgpxco&st=8de20x4z&raw=1",
+                    "description": "Matt Berry – I Gotta Limit",
+                    "song": "Matt Berry – I Gotta Limit",
+                    "spotifylink": "https://open.spotify.com/track/2B3RZVaEBlg4dE6i7HYAxp?si=7e11b20ae7524238"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/5zk9t4brt4b6xlu3az5mv/picture.jpg?rlkey=uv5x37ngrd90fy8tn36sbbca1&st=6pv040zr&raw=1",
+                    "description": "Vincent Van Gogh"
+                }
+            },
+            "9": {
+                "episode": "https://hellojarat.hu/episode/suru-sztorik-mexikobol-thuroczytol-tortak-a-kiralynak/",
+                "episode_date": "2025-02-05",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/7gdkrfwr3zdm7ed53tj6v/album.jpg?rlkey=3aiyg8tcvjrq5kwvbbzm2r1fg&st=n6a856vr&raw=1",
+                    "description": "Dowdelin – Tchembé!",
+                    "song": "Dowdelin – Tchembé!",
+                    "spotifylink": "https://open.spotify.com/track/4CXtEuXrxofc41Ai9IVYPa?si=8877b7b059564d8c"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/57fbppbd4klk4fpx3m39d/picture.jpg?rlkey=8fofjoj63omky0za2k01z3z8w&st=3awamsnp&raw=1",
+                    "description": "Kollázsok a lá"
+                }
+            }
+          },
             "12": {
+              "7": {
+                  "episode": "https://hellojarat.hu/episode/velenceudinetrieszt-es-a-vastag-konyvek-ereje/",
+                  "episode_date": "2025-01-29",
+                  "album": {
+                      "photolink": "https://www.dropbox.com/scl/fi/vowhpy52e0xoi50vf48q3/album.jpg?rlkey=ryifj7i377gh7od8bilh5p9bt&st=ox9fearg&raw=1",
+                      "description": "Koffee – Lonley",
+                      "song": "Koffee – Lonley",
+                      "spotifylink": "https://open.spotify.com/track/7D3PK92kbJXsPoviayoLN3?si=3ed34f3120b14155"
+                  },
+                  "picture": {
+                      "photolink": "https://www.dropbox.com/scl/fi/31kz0wv4nfbngs7ugzxat/picture.jpg?rlkey=mhmhdava4np74ck85vsi9tfo8&st=8cc2bayu&raw=1",
+                      "description": "Mickaele Thomas"
+                  }
+              },
+              "8": {
+                  "episode": "https://hellojarat.hu/episode/boldog-tavalyi-evunk-es-boldog-uj-evet/",
+                  "episode_date": "2025-01-16",
+                  "album": {
+                      "photolink": "https://www.dropbox.com/scl/fi/g7657e2wohmfwkx3c7eaj/album.jpg?rlkey=yfncn5lj0z232yjxi4hb2ir4g&st=zeoks16a&raw=1",
+                      "description": "Mato & Ethel Lindsay – Georgy Porgy",
+                      "song": "Mato & Ethel Lindsay – Georgy Porgy",
+                      "spotifylink": "https://open.spotify.com/track/3fRMhJtUqcDmO7bkX9cAsD?si=459ede1e327b402e"
+                  },
+                  "picture": {
+                      "photolink": "https://www.dropbox.com/scl/fi/ppuc716sdfu68z3qh5cpt/picture.jpg?rlkey=tw4te44osglkenw1ro12ziiar&st=kth6qpkw&raw=1",
+                      "description": "Tamara Lempicka"
+                  }
+              },
                 "9": {
                     "episode": "https://hellojarat.hu/episode/csillagos-eg-uj-szolok-belgrad-nagysaga/",
                     "episode_date": "2025-01-08",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/wqb3dnf4f07i1s6pxojfc/album.jpg?rlkey=1c20u1bl4ofro1e9nmdvrjinv&st=g14vauu1&raw=1",
                         "description": "El Leon Prado – La Perica",
-                        "song": "Martin Buscaglia & Julieta Rada – Hablando de Roma",
+                        "song": "El Leon Prado – La Perica",
                         "spotifylink": "https://open.spotify.com/track/2R233lmzKYMsqiocwxqoRS?si=5638f321eb97473b"
                     },
                     "picture": {
