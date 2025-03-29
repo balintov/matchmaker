@@ -1,7 +1,79 @@
 {
     "1": {
         "months": {
-          "11": {
+          "10_march": {
+            "6": {
+                "episode": "https://hellojarat.hu/episode/zelenszkij-oltonye-mehecskek-porzasa-oda-barati-rohogos-estekhez/",
+                "episode_date": "2025-03-26",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/uqet45jhqx74c6vxdm46o/album.jpg?rlkey=tphxtaoihtdlnbr06t0qq01c3&st=8q7vh9gw&raw=1",
+                    "description": "Collignon – Bicicleta",
+                    "song": "Collignon – Bicicleta",
+                    "spotifylink": "https://open.spotify.com/track/54VVipwZOU3kkoJKfSF3p6?si=44a5a63a0a524045"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/m91sm36t00u1zcttw9i5f/picture.jpg?rlkey=r2wm68l20bqywq05md8a738cf&st=6gvt77ne&raw=1",
+                    "description": "Natalia Goncharova"
+                }
+            },
+            "7": {
+                "episode": "https://hellojarat.hu/episode/tesz-vesz-varos-az-osztrak-hegyen-boksz-es-a-vilag-allasa/",
+                "episode_date": "2025-03-23",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/t2xi30g894pbamepar8et/album.jpeg?rlkey=ijsua7h71s3xaqro0zswcbt4l&st=hme80agl&raw=1",
+                    "description": "Satellites – Gizli Ajan",
+                    "song": "Satellites – Gizli Ajan",
+                    "spotifylink": "https://open.spotify.com/track/6uV9ZiLvdym4VbFE24zb2j?si=4567990cea83426e"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/dae8lfv829ejnotajeoz6/picture.jpeg?rlkey=j4i6fkq26tdiy9ybyldpmsmzc&st=ztd2vh37&raw=1",
+                    "description": "Kis Varsó művészpáros"
+                }
+            },
+            "8": {
+                "episode": "https://hellojarat.hu/episode/apiterapia-falusi-tancolok-kosarazok-parizsban/",
+                "episode_date": "2025-03-13",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/gyq3axihmomwyfkivsmnp/album.jpg?rlkey=7i5li064dbe90v0y3vbiplxbe&st=mwcmp1h4&raw=1",
+                    "description": "Old Crown Medicine Show",
+                    "song": "Old Crown Medicine Show - One Drop",
+                    "spotifylink": "https://open.spotify.com/track/20bVxR7aP5SmXMrwjI0Doa?si=7d6aa133842f4299"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/eoqlhjtcwdgg10w4vwq5q/picture.jpg?rlkey=z18xfpxz4k49k4f5d0o92x2hu&st=nojohayl&raw=1",
+                    "description": "Győri Elek – Táncmulatság"
+                }
+            },
+            "9": {
+                "episode": "https://hellojarat.hu/episode/brutalista-budai-var-naturalista-bakelit-hirek/",
+                "episode_date": "2025-03-06",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/kvvicfrn9w6x71o5jhl6w/album.jpg?rlkey=ifurmwn4wq9hbp3rgpsmuch17&st=6ho5bdbh&raw=1",
+                    "description": "Baiana Sound System – Praira do",
+                    "song": "Baiana Sound System – Praira do",
+                    "spotifylink": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy?si=c323267b175845eb"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/wem93gxg8sfyi2dt7l4tj/picture.jpg?rlkey=q0un21om89y176a0mspvez6fb&st=pmu7tzq0&raw=1",
+                    "description": "Fajgerné Dudás Andrea"
+                }
+            }
+          },
+          "11_february": {
+            "7": {
+                "episode": "https://hellojarat.hu/episode/a-hely-ahol-elunk-helyek-ahol-designerek-elnek-cuteness/",
+                "episode_date": "2025-02-26",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/n8qvkrcj32o53k8zk2l77/album.jpg?rlkey=hwim9vw822fcn5hl6x5rbemj8&st=kfzovf98&raw=1",
+                    "description": "Black Country New Roads",
+                    "song": "Matt Berry – I Gotta Limit",
+                    "spotifylink": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7?si=0086d4f3cfd942ba"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/oy0dmnkevxpqx534efwvi/picture.jpg?rlkey=dtghfv03yydjrfn20iq6ern1m&st=itomqvej&raw=1",
+                    "description": "Bozo Szabolcs"
+                }
+            },
             "8": {
                 "episode": "https://hellojarat.hu/episode/biedermeier-pop-dus-szakallak-kavekeksz-es-idoutazas/",
                 "episode_date": "2025-02-13",
@@ -31,7 +103,7 @@
                 }
             }
           },
-            "12": {
+            "12_january": {
               "7": {
                   "episode": "https://hellojarat.hu/episode/velenceudinetrieszt-es-a-vastag-konyvek-ereje/",
                   "episode_date": "2025-01-29",
