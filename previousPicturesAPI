@@ -1,289 +1,289 @@
 {
     "1": {
         "months": {
-          "6_july": {
-            "8": {
-                "episode": "https://hellojarat.hu/episode/csodas-pecs-valtozo-sportok-lengyel-popart/",
-                "episode_date": "2025-07-09",
-                "mm_extract": "https://www.dropbox.com/scl/fi/bp90g70t7pz0ru234mbb2/matchmaker_07_09.mp3?rlkey=8uiufp94u4d7x8vqo46b4y1mo&st=txjttsyd&raw=1",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/e8j7y2wew7fsox3j34ggo/album.jpg?rlkey=3dxlmdjlqm3tdpar05h0s54zr&st=w9525jkd&raw=1",
-                    "description": "Wojciech Karolak – Why Not Samba",
-                    "song": "Wojciech Karolak – Why Not Samba",
-                    "spotifylink": "https://open.spotify.com/track/7sQ4WV7oQf6fKeLyxH8fu7?si=5b2bf331b82b41c9"
+            "6_july": {
+                "8": {
+                    "episode": "https://hellojarat.hu/episode/csodas-pecs-valtozo-sportok-lengyel-popart/",
+                    "episode_date": "2025-07-09",
+                    "mm_extract": "https://www.dropbox.com/scl/fi/bp90g70t7pz0ru234mbb2/matchmaker_07_09.mp3?rlkey=8uiufp94u4d7x8vqo46b4y1mo&st=txjttsyd&raw=1",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/e8j7y2wew7fsox3j34ggo/album.jpg?rlkey=3dxlmdjlqm3tdpar05h0s54zr&st=w9525jkd&raw=1",
+                        "description": "Wojciech Karolak – Why Not Samba",
+                        "song": "Wojciech Karolak – Why Not Samba",
+                        "spotifylink": "https://open.spotify.com/track/7sQ4WV7oQf6fKeLyxH8fu7?si=5b2bf331b82b41c9"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/rq02k156qgbclg65bzrem/picture.jpg?rlkey=fezodobe4i7rcfxr47j3ql989&st=uy5gj8lx&raw=1",
+                        "description": "Natalia LL – Lata"
+                    }
                 },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/rq02k156qgbclg65bzrem/picture.jpg?rlkey=fezodobe4i7rcfxr47j3ql989&st=uy5gj8lx&raw=1",
-                    "description": "Natalia LL – Lata"
-                }
-              },
-            "9": {
-                "episode": "https://hellojarat.hu/episode/lassulas-hegyi-beszed-gorillaz/",
-                "episode_date": "2025-07-01",
-                "mm_extract": "https://www.dropbox.com/scl/fi/zmslwep34sfs8f4kmy2y8/matchmaker_07_01.mp3?rlkey=9ptmddsusy1szi1z0h8xkgy3p&st=ypn0kzud&raw=1".
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/9xmpgep1shwqmy4y709mt/album.jpg?rlkey=z5nobm4r8xxuw1li8v0i8rgnu&st=4v00n2j0&raw=1",
-                    "description": "Ballaké Sissoko, Vincent Segal, Emile Parisien, Vincent Peirani – Grana od bora",
-                    "song": "Ballaké Sissoko, Vincent Segal, Emile Parisien, Vincent Peirani – Grana od bora",
-                    "spotifylink": "https://open.spotify.com/track/1zTuaV3PDy54yYVV2mSx0u?si=a9df870a30af4f89"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/rngbyvl94eru05o7jhaqt/picture.jpg?rlkey=3oa8zfzdcsotxgov07suurmn7&st=ht4z6top&raw=1",
-                    "description": "Ferenczy Károly – Hegyibeszéd"
-                }
-              }
-          },
-          "7_june": {
-            "8": {
-                "episode": "https://hellojarat.hu/episode/szeretet-a-hegyen-nyugalom-a-matchmakerben-es-egy-fiuklub/",
-                "episode_date": "2025-06-11",
-                "mm_extract": "https://www.dropbox.com/scl/fo/0bcakxyfgqdf8ccn5iuri/AIsGp9x9PSxSA0MjpoFv_xs?rlkey=l52lud55wnrq6urywimitadk5&st=yycshnmt&raw=1",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/mm5qeu40cfnxgy34ifgue/album.jpg?rlkey=dj95xjr689dpon92xb1sw8qdr&st=cj97dyi6&raw=1",
-                    "description": "St. Etienne – Glad",
-                    "song": "St. Etienne – Glad",
-                    "spotifylink": "https://open.spotify.com/track/6XUwgXNhadNdLnHKY6Sly8?si=00e60b01d0a44a99"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/ohwkmdvvyvojavxnxbc6o/picture.jpg?rlkey=q9umkdedjjek1cbc1bxmgiha4&st=oob4jvq0&raw=1",
-                    "description": "Agnes Martin"
-                }
-              },
-            "9": {
-                "episode": "https://hellojarat.hu/episode/ejjeli-autozas-dolgos-mehek-es-tanc-mindenekfelett/",
-                "episode_date": "2025-06-04",
-                "mm_extract": "https://www.dropbox.com/scl/fi/f4t3qmgc836um7kgvdsrt/matchmaker_06_04.mp3?rlkey=fr4ldukmgxsm3351rmcfugpw1&st=znrbrous&raw=1",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/gfvqk10sy1o5xt2r5rk23/album.jpg?rlkey=wmhc1r4463yy44kaxg59ccsc6&st=vzda76ub&raw=1",
-                    "description": "Trinix – Vaitimbora feat. Marie Froes",
-                    "song": "Trinix – Vaitimbora feat. Marie Froes",
-                    "spotifylink": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm?si=cf8cc6be412c4fd6"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/v5v6slozycwn2wtd9njvc/picture.jpg?rlkey=2vhydugoq02yb18js8lnzhx2z&st=q2agc50n&raw=1",
-                    "description": "Szentpál Olga"
-                }
-          }
-        },
-          "8_may": {
-            "7": {
-                "episode": "https://hellojarat.hu/episode/mozgalmas-gyerekzsur-vadulo-belpolitika-legendas-brit-parosok/",
-                "episode_date": "2025-05-30",
-                "mm_extract": "https://www.dropbox.com/scl/fi/ffs4asuk71bsllpccksy9/matchmaker_05_30.mp3?rlkey=9i9gecc9pvcnew0yz3vkrxdxk&st=martb9p8&raw=1",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/z5ag3qrjy55o26snlb0or/album.jpg?rlkey=a6hg5b4qi014v9s3w617jp0mv&st=jlse010s&raw=1",
-                    "description": "Matchmaker – Bronski Beat & Mark Almond",
-                    "song": "Matchmaker – Bronski Beat & Mark Almond",
-                    "spotifylink": "https://open.spotify.com/track/6bDRCr82aFtaQ51koTH5ef?si=d79a716389ea40f3"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/oca6kb10jb9hs298tjq86/picture.jpg?rlkey=n6iybg9iez3novdwx1mxrsakz&st=ij5ml0fp&raw=1",
-                    "description": "Gilbert and George"
-                }
-              },
-            "8": {
-                "episode": "https://hellojarat.hu/episode/csodas-krakko-jelentos-toasztkenyerek-es-elirt-szovegek/",
-                "episode_date": "2025-05-21",
-                "mm_extract": "https://www.dropbox.com/scl/fi/kdbhcoe8dlcpza14u681h/matchmaker_05_21.mp3?rlkey=uc133hqirw3hh8ykir6ol9oj3&st=8g4acrpo&raw=1",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/uw0bvvt18tkwf3lb6u5yv/album.jpg?rlkey=95x7fmy82kazvhs4s9apwb3mg&st=kyhwhqg0&raw=1",
-                    "description": "Pan Amsterdam – NYC Town",
-                    "song": "Pan Amsterdam – NYC Town",
-                    "spotifylink": "https://open.spotify.com/track/0CJSzQrdpurtp0WuoJTv11?si=12100898c2494abc"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/6gjdrb1i0cmyewye5x8oy/picture.jpg?rlkey=04il3cj731cjwgwtdigbtt4ly&st=cbfok28a&raw=1",
-                    "description": "James Rosenquist"
-                }
-              },
-            "9": {
-                "episode": "https://hellojarat.hu/episode/nezobarat-kiallitasok-diszko-parizsbol-negyzetes-varoskepek/",
-                "episode_date": "2025-05-11",
-                "mm_extract": "https://www.dropbox.com/scl/fi/vuvnl3lerjwb23gwqs14h/matchmaker_05_11.mp3?rlkey=h5ry3wxwmq2nmg3oar7eg5j4l&st=1hwz9cak&raw=1",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/x721vz3ttgu23d2gydd4r/album.jpg?rlkey=n9msiqpgztbnaf5ij0oe8eh5c&st=13n1fd1o&raw=1",
-                    "description": "Bon Iver – Everything Is Peaceful Love",
-                    "song": "Bon Iver – Everything Is Peaceful Love",
-                    "spotifylink": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9?si=24a98bc86abe4c38"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/40lyicbt527wb6e5tt6l2/picture.jpg?rlkey=lyffmiuiuo87dou0epqsk39pw&st=x5w3kxus&raw=1",
-                    "description": "Bak Imre"
-                }
-          }
-        },
-          "9_april": {
-            "8": {
-                "episode": "https://hellojarat.hu/episode/sok-munka-a-foldeken-sok-munka-a-szinpadokon-es-cezanne-forever/",
-                "episode_date": "2025-04-24",
-                "mm_extract": "https://www.dropbox.com/scl/fi/bnani5wyrjwg9qqo8zffm/matchmaker_04_24.mp3?rlkey=38x92hkmd6r42l60ykupxirmn&st=iccyhcor&raw=1",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/2wn080f9cdp85zmirx4r3/album.jpg?rlkey=3fxnur53nw9c77d32odxiehdy&st=rcp7f52w&raw=1",
-                    "description": "Hannah Cohen – Summer Sweat",
-                    "song": "Hannah Cohen – Summer Sweat",
-                    "spotifylink": "https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF?si=74dbf1b48988434f"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/ejx3blt7hxfcvgqrbm8gt/picture.jpg?rlkey=2gx7xnso4cytzd70bu9zyabad&st=awa4mhlu&raw=1",
-                    "description": "Pecsics Mária"
-                }
-              },
-            "9": {
-                "episode": "https://hellojarat.hu/episode/belgad-izei-virulens-viruskak-olelkezz-ha-lehet/",
-                "episode_date": "2025-04-06",
-                "mm_extract": false,
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/oz0lvwnsa07k5v0p8y8fv/album.jpg?rlkey=55j1k33vodhw8em7aeih7lej5&st=vu558a99&raw=1",
-                    "description": "Beatrice Melissa – Emergency",
-                    "song": "Beatrice Melissa – Emergency",
-                    "spotifylink": "https://open.spotify.com/track/5ErdtoJnHyKVkmdcSlZyKn?si=ac094a45f31a46f0"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/xhxibd34wy7fn6ojl9wmi/picture.jpg?rlkey=61vnh00qujz6aekdai7sc63cn&st=g1momnjy&raw=1",
-                    "description": "Edvard Munch"
-                }
-          }
-        },
-          "10_march": {
-            "6": {
-                "episode": "https://hellojarat.hu/episode/zelenszkij-oltonye-mehecskek-porzasa-oda-barati-rohogos-estekhez/",
-                "episode_date": "2025-03-26",
-                "mm_extract": false,
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/uqet45jhqx74c6vxdm46o/album.jpg?rlkey=tphxtaoihtdlnbr06t0qq01c3&st=8q7vh9gw&raw=1",
-                    "description": "Collignon – Bicicleta",
-                    "song": "Collignon – Bicicleta",
-                    "spotifylink": "https://open.spotify.com/track/54VVipwZOU3kkoJKfSF3p6?si=44a5a63a0a524045"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/m91sm36t00u1zcttw9i5f/picture.jpg?rlkey=r2wm68l20bqywq05md8a738cf&st=6gvt77ne&raw=1",
-                    "description": "Natalia Goncharova"
+                "9": {
+                    "episode": "https://hellojarat.hu/episode/lassulas-hegyi-beszed-gorillaz/",
+                    "episode_date": "2025-07-01",
+                    "mm_extract": "https://www.dropbox.com/scl/fi/zmslwep34sfs8f4kmy2y8/matchmaker_07_01.mp3?rlkey=9ptmddsusy1szi1z0h8xkgy3p&st=ypn0kzud&raw=1",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/9xmpgep1shwqmy4y709mt/album.jpg?rlkey=z5nobm4r8xxuw1li8v0i8rgnu&st=4v00n2j0&raw=1",
+                        "description": "Ballaké Sissoko, Vincent Segal, Emile Parisien, Vincent Peirani – Grana od bora",
+                        "song": "Ballaké Sissoko, Vincent Segal, Emile Parisien, Vincent Peirani – Grana od bora",
+                        "spotifylink": "https://open.spotify.com/track/1zTuaV3PDy54yYVV2mSx0u?si=a9df870a30af4f89"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/rngbyvl94eru05o7jhaqt/picture.jpg?rlkey=3oa8zfzdcsotxgov07suurmn7&st=ht4z6top&raw=1",
+                        "description": "Ferenczy Károly – Hegyibeszéd"
+                    }
                 }
             },
-            "7": {
-                "episode": "https://hellojarat.hu/episode/tesz-vesz-varos-az-osztrak-hegyen-boksz-es-a-vilag-allasa/",
-                "episode_date": "2025-03-23",
-                "mm_extract": false,
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/t2xi30g894pbamepar8et/album.jpeg?rlkey=ijsua7h71s3xaqro0zswcbt4l&st=hme80agl&raw=1",
-                    "description": "Satellites – Gizli Ajan",
-                    "song": "Satellites – Gizli Ajan",
-                    "spotifylink": "https://open.spotify.com/track/6uV9ZiLvdym4VbFE24zb2j?si=4567990cea83426e"
+            "7_june": {
+                "8": {
+                    "episode": "https://hellojarat.hu/episode/szeretet-a-hegyen-nyugalom-a-matchmakerben-es-egy-fiuklub/",
+                    "episode_date": "2025-06-11",
+                    "mm_extract": "https://www.dropbox.com/scl/fo/0bcakxyfgqdf8ccn5iuri/AIsGp9x9PSxSA0MjpoFv_xs?rlkey=l52lud55wnrq6urywimitadk5&st=yycshnmt&raw=1",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/mm5qeu40cfnxgy34ifgue/album.jpg?rlkey=dj95xjr689dpon92xb1sw8qdr&st=cj97dyi6&raw=1",
+                        "description": "St. Etienne – Glad",
+                        "song": "St. Etienne – Glad",
+                        "spotifylink": "https://open.spotify.com/track/6XUwgXNhadNdLnHKY6Sly8?si=00e60b01d0a44a99"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/ohwkmdvvyvojavxnxbc6o/picture.jpg?rlkey=q9umkdedjjek1cbc1bxmgiha4&st=oob4jvq0&raw=1",
+                        "description": "Agnes Martin"
+                    }
                 },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/dae8lfv829ejnotajeoz6/picture.jpeg?rlkey=j4i6fkq26tdiy9ybyldpmsmzc&st=ztd2vh37&raw=1",
-                    "description": "Kis Varsó művészpáros"
+                "9": {
+                    "episode": "https://hellojarat.hu/episode/ejjeli-autozas-dolgos-mehek-es-tanc-mindenekfelett/",
+                    "episode_date": "2025-06-04",
+                    "mm_extract": "https://www.dropbox.com/scl/fi/f4t3qmgc836um7kgvdsrt/matchmaker_06_04.mp3?rlkey=fr4ldukmgxsm3351rmcfugpw1&st=znrbrous&raw=1",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/gfvqk10sy1o5xt2r5rk23/album.jpg?rlkey=wmhc1r4463yy44kaxg59ccsc6&st=vzda76ub&raw=1",
+                        "description": "Trinix – Vaitimbora feat. Marie Froes",
+                        "song": "Trinix – Vaitimbora feat. Marie Froes",
+                        "spotifylink": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm?si=cf8cc6be412c4fd6"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/v5v6slozycwn2wtd9njvc/picture.jpg?rlkey=2vhydugoq02yb18js8lnzhx2z&st=q2agc50n&raw=1",
+                        "description": "Szentpál Olga"
+                    }
                 }
             },
-            "8": {
-                "episode": "https://hellojarat.hu/episode/apiterapia-falusi-tancolok-kosarazok-parizsban/",
-                "episode_date": "2025-03-13",
-                "mm_extract": false,
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/gyq3axihmomwyfkivsmnp/album.jpg?rlkey=7i5li064dbe90v0y3vbiplxbe&st=mwcmp1h4&raw=1",
-                    "description": "Old Crown Medicine Show",
-                    "song": "Old Crown Medicine Show - One Drop",
-                    "spotifylink": "https://open.spotify.com/track/20bVxR7aP5SmXMrwjI0Doa?si=7d6aa133842f4299"
+            "8_may": {
+                "7": {
+                    "episode": "https://hellojarat.hu/episode/mozgalmas-gyerekzsur-vadulo-belpolitika-legendas-brit-parosok/",
+                    "episode_date": "2025-05-30",
+                    "mm_extract": "https://www.dropbox.com/scl/fi/ffs4asuk71bsllpccksy9/matchmaker_05_30.mp3?rlkey=9i9gecc9pvcnew0yz3vkrxdxk&st=martb9p8&raw=1",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/z5ag3qrjy55o26snlb0or/album.jpg?rlkey=a6hg5b4qi014v9s3w617jp0mv&st=jlse010s&raw=1",
+                        "description": "Matchmaker – Bronski Beat & Mark Almond",
+                        "song": "Matchmaker – Bronski Beat & Mark Almond",
+                        "spotifylink": "https://open.spotify.com/track/6bDRCr82aFtaQ51koTH5ef?si=d79a716389ea40f3"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/oca6kb10jb9hs298tjq86/picture.jpg?rlkey=n6iybg9iez3novdwx1mxrsakz&st=ij5ml0fp&raw=1",
+                        "description": "Gilbert and George"
+                    }
                 },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/eoqlhjtcwdgg10w4vwq5q/picture.jpg?rlkey=z18xfpxz4k49k4f5d0o92x2hu&st=nojohayl&raw=1",
-                    "description": "Győri Elek – Táncmulatság"
+                "8": {
+                    "episode": "https://hellojarat.hu/episode/csodas-krakko-jelentos-toasztkenyerek-es-elirt-szovegek/",
+                    "episode_date": "2025-05-21",
+                    "mm_extract": "https://www.dropbox.com/scl/fi/kdbhcoe8dlcpza14u681h/matchmaker_05_21.mp3?rlkey=uc133hqirw3hh8ykir6ol9oj3&st=8g4acrpo&raw=1",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/uw0bvvt18tkwf3lb6u5yv/album.jpg?rlkey=95x7fmy82kazvhs4s9apwb3mg&st=kyhwhqg0&raw=1",
+                        "description": "Pan Amsterdam – NYC Town",
+                        "song": "Pan Amsterdam – NYC Town",
+                        "spotifylink": "https://open.spotify.com/track/0CJSzQrdpurtp0WuoJTv11?si=12100898c2494abc"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/6gjdrb1i0cmyewye5x8oy/picture.jpg?rlkey=04il3cj731cjwgwtdigbtt4ly&st=cbfok28a&raw=1",
+                        "description": "James Rosenquist"
+                    }
+                },
+                "9": {
+                    "episode": "https://hellojarat.hu/episode/nezobarat-kiallitasok-diszko-parizsbol-negyzetes-varoskepek/",
+                    "episode_date": "2025-05-11",
+                    "mm_extract": "https://www.dropbox.com/scl/fi/vuvnl3lerjwb23gwqs14h/matchmaker_05_11.mp3?rlkey=h5ry3wxwmq2nmg3oar7eg5j4l&st=1hwz9cak&raw=1",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/x721vz3ttgu23d2gydd4r/album.jpg?rlkey=n9msiqpgztbnaf5ij0oe8eh5c&st=13n1fd1o&raw=1",
+                        "description": "Bon Iver – Everything Is Peaceful Love",
+                        "song": "Bon Iver – Everything Is Peaceful Love",
+                        "spotifylink": "https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9?si=24a98bc86abe4c38"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/40lyicbt527wb6e5tt6l2/picture.jpg?rlkey=lyffmiuiuo87dou0epqsk39pw&st=x5w3kxus&raw=1",
+                        "description": "Bak Imre"
+                    }
                 }
             },
-            "9": {
-                "episode": "https://hellojarat.hu/episode/brutalista-budai-var-naturalista-bakelit-hirek/",
-                "episode_date": "2025-03-06",
-                "mm_extract": false,
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/kvvicfrn9w6x71o5jhl6w/album.jpg?rlkey=ifurmwn4wq9hbp3rgpsmuch17&st=6ho5bdbh&raw=1",
-                    "description": "Baiana Sound System – Praira do",
-                    "song": "Baiana Sound System – Praira do",
-                    "spotifylink": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy?si=c323267b175845eb"
+            "9_april": {
+                "8": {
+                    "episode": "https://hellojarat.hu/episode/sok-munka-a-foldeken-sok-munka-a-szinpadokon-es-cezanne-forever/",
+                    "episode_date": "2025-04-24",
+                    "mm_extract": "https://www.dropbox.com/scl/fi/bnani5wyrjwg9qqo8zffm/matchmaker_04_24.mp3?rlkey=38x92hkmd6r42l60ykupxirmn&st=iccyhcor&raw=1",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/2wn080f9cdp85zmirx4r3/album.jpg?rlkey=3fxnur53nw9c77d32odxiehdy&st=rcp7f52w&raw=1",
+                        "description": "Hannah Cohen – Summer Sweat",
+                        "song": "Hannah Cohen – Summer Sweat",
+                        "spotifylink": "https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF?si=74dbf1b48988434f"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/ejx3blt7hxfcvgqrbm8gt/picture.jpg?rlkey=2gx7xnso4cytzd70bu9zyabad&st=awa4mhlu&raw=1",
+                        "description": "Pecsics Mária"
+                    }
                 },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/wem93gxg8sfyi2dt7l4tj/picture.jpg?rlkey=q0un21om89y176a0mspvez6fb&st=pmu7tzq0&raw=1",
-                    "description": "Fajgerné Dudás Andrea"
-                }
-            }
-          },
-          "11_february": {
-            "7": {
-                "episode": "https://hellojarat.hu/episode/a-hely-ahol-elunk-helyek-ahol-designerek-elnek-cuteness/",
-                "episode_date": "2025-02-26",
-                "mm_extract": false,
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/n8qvkrcj32o53k8zk2l77/album.jpg?rlkey=hwim9vw822fcn5hl6x5rbemj8&st=kfzovf98&raw=1",
-                    "description": "Black Country New Roads",
-                    "song": "Matt Berry – I Gotta Limit",
-                    "spotifylink": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7?si=0086d4f3cfd942ba"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/oy0dmnkevxpqx534efwvi/picture.jpg?rlkey=dtghfv03yydjrfn20iq6ern1m&st=itomqvej&raw=1",
-                    "description": "Bozo Szabolcs"
-                }
-            },
-            "8": {
-                "episode": "https://hellojarat.hu/episode/biedermeier-pop-dus-szakallak-kavekeksz-es-idoutazas/",
-                "episode_date": "2025-02-13",
-                "mm_extract": false,
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/tnwqr6nunio2k5b1tdx49/album.jpg?rlkey=i5suy9hnt2njwzkw0jwsgpxco&st=8de20x4z&raw=1",
-                    "description": "Matt Berry – I Gotta Limit",
-                    "song": "Matt Berry – I Gotta Limit",
-                    "spotifylink": "https://open.spotify.com/track/2B3RZVaEBlg4dE6i7HYAxp?si=7e11b20ae7524238"
-                },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/5zk9t4brt4b6xlu3az5mv/picture.jpg?rlkey=uv5x37ngrd90fy8tn36sbbca1&st=6pv040zr&raw=1",
-                    "description": "Vincent Van Gogh"
+                "9": {
+                    "episode": "https://hellojarat.hu/episode/belgad-izei-virulens-viruskak-olelkezz-ha-lehet/",
+                    "episode_date": "2025-04-06",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/oz0lvwnsa07k5v0p8y8fv/album.jpg?rlkey=55j1k33vodhw8em7aeih7lej5&st=vu558a99&raw=1",
+                        "description": "Beatrice Melissa – Emergency",
+                        "song": "Beatrice Melissa – Emergency",
+                        "spotifylink": "https://open.spotify.com/track/5ErdtoJnHyKVkmdcSlZyKn?si=ac094a45f31a46f0"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/xhxibd34wy7fn6ojl9wmi/picture.jpg?rlkey=61vnh00qujz6aekdai7sc63cn&st=g1momnjy&raw=1",
+                        "description": "Edvard Munch"
+                    }
                 }
             },
-            "9": {
-                "episode": "https://hellojarat.hu/episode/suru-sztorik-mexikobol-thuroczytol-tortak-a-kiralynak/",
-                "episode_date": "2025-02-05",
-                "mm_extract": false,
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/7gdkrfwr3zdm7ed53tj6v/album.jpg?rlkey=3aiyg8tcvjrq5kwvbbzm2r1fg&st=n6a856vr&raw=1",
-                    "description": "Dowdelin – Tchembé!",
-                    "song": "Dowdelin – Tchembé!",
-                    "spotifylink": "https://open.spotify.com/track/4CXtEuXrxofc41Ai9IVYPa?si=8877b7b059564d8c"
+            "10_march": {
+                "6": {
+                    "episode": "https://hellojarat.hu/episode/zelenszkij-oltonye-mehecskek-porzasa-oda-barati-rohogos-estekhez/",
+                    "episode_date": "2025-03-26",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/uqet45jhqx74c6vxdm46o/album.jpg?rlkey=tphxtaoihtdlnbr06t0qq01c3&st=8q7vh9gw&raw=1",
+                        "description": "Collignon – Bicicleta",
+                        "song": "Collignon – Bicicleta",
+                        "spotifylink": "https://open.spotify.com/track/54VVipwZOU3kkoJKfSF3p6?si=44a5a63a0a524045"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/m91sm36t00u1zcttw9i5f/picture.jpg?rlkey=r2wm68l20bqywq05md8a738cf&st=6gvt77ne&raw=1",
+                        "description": "Natalia Goncharova"
+                    }
                 },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/57fbppbd4klk4fpx3m39d/picture.jpg?rlkey=8fofjoj63omky0za2k01z3z8w&st=3awamsnp&raw=1",
-                    "description": "Kollázsok a lá"
+                "7": {
+                    "episode": "https://hellojarat.hu/episode/tesz-vesz-varos-az-osztrak-hegyen-boksz-es-a-vilag-allasa/",
+                    "episode_date": "2025-03-23",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/t2xi30g894pbamepar8et/album.jpeg?rlkey=ijsua7h71s3xaqro0zswcbt4l&st=hme80agl&raw=1",
+                        "description": "Satellites – Gizli Ajan",
+                        "song": "Satellites – Gizli Ajan",
+                        "spotifylink": "https://open.spotify.com/track/6uV9ZiLvdym4VbFE24zb2j?si=4567990cea83426e"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/dae8lfv829ejnotajeoz6/picture.jpeg?rlkey=j4i6fkq26tdiy9ybyldpmsmzc&st=ztd2vh37&raw=1",
+                        "description": "Kis Varsó művészpáros"
+                    }
+                },
+                "8": {
+                    "episode": "https://hellojarat.hu/episode/apiterapia-falusi-tancolok-kosarazok-parizsban/",
+                    "episode_date": "2025-03-13",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/gyq3axihmomwyfkivsmnp/album.jpg?rlkey=7i5li064dbe90v0y3vbiplxbe&st=mwcmp1h4&raw=1",
+                        "description": "Old Crown Medicine Show",
+                        "song": "Old Crown Medicine Show - One Drop",
+                        "spotifylink": "https://open.spotify.com/track/20bVxR7aP5SmXMrwjI0Doa?si=7d6aa133842f4299"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/eoqlhjtcwdgg10w4vwq5q/picture.jpg?rlkey=z18xfpxz4k49k4f5d0o92x2hu&st=nojohayl&raw=1",
+                        "description": "Győri Elek – Táncmulatság"
+                    }
+                },
+                "9": {
+                    "episode": "https://hellojarat.hu/episode/brutalista-budai-var-naturalista-bakelit-hirek/",
+                    "episode_date": "2025-03-06",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/kvvicfrn9w6x71o5jhl6w/album.jpg?rlkey=ifurmwn4wq9hbp3rgpsmuch17&st=6ho5bdbh&raw=1",
+                        "description": "Baiana Sound System – Praira do",
+                        "song": "Baiana Sound System – Praira do",
+                        "spotifylink": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy?si=c323267b175845eb"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/wem93gxg8sfyi2dt7l4tj/picture.jpg?rlkey=q0un21om89y176a0mspvez6fb&st=pmu7tzq0&raw=1",
+                        "description": "Fajgerné Dudás Andrea"
+                    }
                 }
-            }
-          },
+            },
+            "11_february": {
+                "7": {
+                    "episode": "https://hellojarat.hu/episode/a-hely-ahol-elunk-helyek-ahol-designerek-elnek-cuteness/",
+                    "episode_date": "2025-02-26",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/n8qvkrcj32o53k8zk2l77/album.jpg?rlkey=hwim9vw822fcn5hl6x5rbemj8&st=kfzovf98&raw=1",
+                        "description": "Black Country New Roads",
+                        "song": "Matt Berry – I Gotta Limit",
+                        "spotifylink": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7?si=0086d4f3cfd942ba"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/oy0dmnkevxpqx534efwvi/picture.jpg?rlkey=dtghfv03yydjrfn20iq6ern1m&st=itomqvej&raw=1",
+                        "description": "Bozo Szabolcs"
+                    }
+                },
+                "8": {
+                    "episode": "https://hellojarat.hu/episode/biedermeier-pop-dus-szakallak-kavekeksz-es-idoutazas/",
+                    "episode_date": "2025-02-13",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/tnwqr6nunio2k5b1tdx49/album.jpg?rlkey=i5suy9hnt2njwzkw0jwsgpxco&st=8de20x4z&raw=1",
+                        "description": "Matt Berry – I Gotta Limit",
+                        "song": "Matt Berry – I Gotta Limit",
+                        "spotifylink": "https://open.spotify.com/track/2B3RZVaEBlg4dE6i7HYAxp?si=7e11b20ae7524238"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/5zk9t4brt4b6xlu3az5mv/picture.jpg?rlkey=uv5x37ngrd90fy8tn36sbbca1&st=6pv040zr&raw=1",
+                        "description": "Vincent Van Gogh"
+                    }
+                },
+                "9": {
+                    "episode": "https://hellojarat.hu/episode/suru-sztorik-mexikobol-thuroczytol-tortak-a-kiralynak/",
+                    "episode_date": "2025-02-05",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/7gdkrfwr3zdm7ed53tj6v/album.jpg?rlkey=3aiyg8tcvjrq5kwvbbzm2r1fg&st=n6a856vr&raw=1",
+                        "description": "Dowdelin – Tchembé!",
+                        "song": "Dowdelin – Tchembé!",
+                        "spotifylink": "https://open.spotify.com/track/4CXtEuXrxofc41Ai9IVYPa?si=8877b7b059564d8c"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/57fbppbd4klk4fpx3m39d/picture.jpg?rlkey=8fofjoj63omky0za2k01z3z8w&st=3awamsnp&raw=1",
+                        "description": "Kollázsok a lá"
+                    }
+                }
+            },
             "12_january": {
-              "7": {
-                  "episode": "https://hellojarat.hu/episode/velenceudinetrieszt-es-a-vastag-konyvek-ereje/",
-                  "episode_date": "2025-01-29",
-                  "mm_extract": false,
-                  "album": {
-                      "photolink": "https://www.dropbox.com/scl/fi/vowhpy52e0xoi50vf48q3/album.jpg?rlkey=ryifj7i377gh7od8bilh5p9bt&st=ox9fearg&raw=1",
-                      "description": "Koffee – Lonley",
-                      "song": "Koffee – Lonley",
-                      "spotifylink": "https://open.spotify.com/track/7D3PK92kbJXsPoviayoLN3?si=3ed34f3120b14155"
-                  },
-                  "picture": {
-                      "photolink": "https://www.dropbox.com/scl/fi/31kz0wv4nfbngs7ugzxat/picture.jpg?rlkey=mhmhdava4np74ck85vsi9tfo8&st=8cc2bayu&raw=1",
-                      "description": "Mickaele Thomas"
-                  }
-              },
-              "8": {
-                  "episode": "https://hellojarat.hu/episode/boldog-tavalyi-evunk-es-boldog-uj-evet/",
-                  "episode_date": "2025-01-16",
-                  "mm_extract": false,
-                  "album": {
-                      "photolink": "https://www.dropbox.com/scl/fi/g7657e2wohmfwkx3c7eaj/album.jpg?rlkey=yfncn5lj0z232yjxi4hb2ir4g&st=zeoks16a&raw=1",
-                      "description": "Mato & Ethel Lindsay – Georgy Porgy",
-                      "song": "Mato & Ethel Lindsay – Georgy Porgy",
-                      "spotifylink": "https://open.spotify.com/track/3fRMhJtUqcDmO7bkX9cAsD?si=459ede1e327b402e"
-                  },
-                  "picture": {
-                      "photolink": "https://www.dropbox.com/scl/fi/ppuc716sdfu68z3qh5cpt/picture.jpg?rlkey=tw4te44osglkenw1ro12ziiar&st=kth6qpkw&raw=1",
-                      "description": "Tamara Lempicka"
-                  }
-              },
+                "7": {
+                    "episode": "https://hellojarat.hu/episode/velenceudinetrieszt-es-a-vastag-konyvek-ereje/",
+                    "episode_date": "2025-01-29",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/vowhpy52e0xoi50vf48q3/album.jpg?rlkey=ryifj7i377gh7od8bilh5p9bt&st=ox9fearg&raw=1",
+                        "description": "Koffee – Lonley",
+                        "song": "Koffee – Lonley",
+                        "spotifylink": "https://open.spotify.com/track/7D3PK92kbJXsPoviayoLN3?si=3ed34f3120b14155"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/31kz0wv4nfbngs7ugzxat/picture.jpg?rlkey=mhmhdava4np74ck85vsi9tfo8&st=8cc2bayu&raw=1",
+                        "description": "Mickaele Thomas"
+                    }
+                },
+                "8": {
+                    "episode": "https://hellojarat.hu/episode/boldog-tavalyi-evunk-es-boldog-uj-evet/",
+                    "episode_date": "2025-01-16",
+                    "mm_extract": false,
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/g7657e2wohmfwkx3c7eaj/album.jpg?rlkey=yfncn5lj0z232yjxi4hb2ir4g&st=zeoks16a&raw=1",
+                        "description": "Mato & Ethel Lindsay – Georgy Porgy",
+                        "song": "Mato & Ethel Lindsay – Georgy Porgy",
+                        "spotifylink": "https://open.spotify.com/track/3fRMhJtUqcDmO7bkX9cAsD?si=459ede1e327b402e"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/ppuc716sdfu68z3qh5cpt/picture.jpg?rlkey=tw4te44osglkenw1ro12ziiar&st=kth6qpkw&raw=1",
+                        "description": "Tamara Lempicka"
+                    }
+                },
                 "9": {
                     "episode": "https://hellojarat.hu/episode/csillagos-eg-uj-szolok-belgrad-nagysaga/",
                     "episode_date": "2025-01-08",
