@@ -1,6 +1,21 @@
 {  "1": {
       "months": {
           "9_sept": {
+            "8": {
+                "episode": "https://hellojarat.hu/episode/turkiz-viztukrok-toszkan-elvezet-szureti-menet/",
+                "episode_date": "2025-09-10",
+                "mm_extract": "#",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/uzma7n9kkqrl275u4po29/album.jpg?rlkey=i3sevyo76hiecgqh9nwpfyphr&st=5z25r0hu&raw=1",
+                    "description": "Africa Express",
+                    "song": "Africa Express – Pánico",
+                    "spotifylink": "https://open.spotify.com/track/7vGbzBMiH3WPSgT5GJB54B?si=81d18871ce97493b"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/7vjlozllnsej5jxnj3asy/picture.jpg?rlkey=fz9lrcnqe2gquwo5yca8ywpyk&st=vcqb5swv&raw=1",
+                    "description": "Peter Doig"
+                }
+            },
               "9": {
                   "episode": "https://hellojarat.hu/episode/back-on-track-indul-a-szeptember/",
                   "episode_date": "2025-09-03",
