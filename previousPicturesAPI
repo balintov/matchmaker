@@ -1,6 +1,21 @@
 {  "1": {
       "months": {
           "9_sept": {
+            "7": {
+                "episode": "#",
+                "episode_date": "2025-09-17",
+                "mm_extract": "#",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/qc819clmzn1eanqunshrk/album.jpg?rlkey=9j2hperr8mxmbqu6ldps2v27q&st=wd95dspk&raw=1",
+                    "description": "Boogie Rookie",
+                    "song": "Boogie Rookie",
+                    "spotifylink": "#"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/7vjlozllnsej5jxnj3asy/picture.jpg?rlkey=fz9lrcnqe2gquwo5yca8ywpyk&st=vcqb5swv&raw=1",
+                    "description": "Peter Doig"
+                }
+            },
             "8": {
                 "episode": "https://hellojarat.hu/episode/turkiz-viztukrok-toszkan-elvezet-szureti-menet/",
                 "episode_date": "2025-09-10",
