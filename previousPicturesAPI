@@ -1,59 +1,74 @@
-{  "1": {
-      "months": {
-          "9_sept": {
-            "7": {
-                "episode": "#",
-                "episode_date": "2025-09-17",
-                "mm_extract": "#",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/qc819clmzn1eanqunshrk/album.jpg?rlkey=9j2hperr8mxmbqu6ldps2v27q&st=wd95dspk&raw=1",
-                    "description": "Boogie Rookie",
-                    "song": "Boogie Rookie",
-                    "spotifylink": "#"
+{
+    "1": {
+        "months": {
+            "9_sept": {
+                "6": {
+                    "episode": "#",
+                    "episode_date": "2025-09-24",
+                    "mm_extract": "#",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/erbdxqyvlgfmbjuupy74d/album.jpg?rlkey=05c5l0epuvqy70617j7bacliz&st=hkdku2iv&raw=1",
+                        "description": "Sulamerica",
+                        "song": "Sulamerica",
+                        "spotifylink": "#"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/4ffyuwo8nq51i8k8s8osg/picture.jpg?rlkey=eipy2clsiw35u8qe5pr5x2gdv&st=3ns932ti&raw=1",
+                        "description": "Göbölyös Luca"
+                    }
                 },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/f67o9fmgmisfx6ml3acy0/picture.jpg?rlkey=b9qpce8d5ufm032jgjba10j8a&st=xkz3wnd2&raw=1",
-                    "description": "Szabó Eszter Ágnes"
-                }
-            },
-            "8": {
-                "episode": "https://hellojarat.hu/episode/turkiz-viztukrok-toszkan-elvezet-szureti-menet/",
-                "episode_date": "2025-09-10",
-                "mm_extract": "#",
-                "album": {
-                    "photolink": "https://www.dropbox.com/scl/fi/uzma7n9kkqrl275u4po29/album.jpg?rlkey=i3sevyo76hiecgqh9nwpfyphr&st=5z25r0hu&raw=1",
-                    "description": "Africa Express",
-                    "song": "Africa Express – Pánico",
-                    "spotifylink": "https://open.spotify.com/track/7vGbzBMiH3WPSgT5GJB54B?si=81d18871ce97493b"
+                "7": {
+                    "episode": "https://hellojarat.hu/episode/kieso-jokics-kozossegi-szuret-neznivalo-kiallitasok/",
+                    "episode_date": "2025-09-17",
+                    "mm_extract": "#",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/qc819clmzn1eanqunshrk/album.jpg?rlkey=9j2hperr8mxmbqu6ldps2v27q&st=wd95dspk&raw=1",
+                        "description": "Boogie Rookie",
+                        "song": "Boogie Rookie",
+                        "spotifylink": "https://open.spotify.com/track/7H2Kv3x27KST6zkVsfjNca?si=6c7ef475d3a34043"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/7vjlozllnsej5jxnj3asy/picture.jpg?rlkey=fz9lrcnqe2gquwo5yca8ywpyk&st=vcqb5swv&raw=1",
+                        "description": "Peter Doig"
+                    }
                 },
-                "picture": {
-                    "photolink": "https://www.dropbox.com/scl/fi/7vjlozllnsej5jxnj3asy/picture.jpg?rlkey=fz9lrcnqe2gquwo5yca8ywpyk&st=vcqb5swv&raw=1",
-                    "description": "Peter Doig"
+                "8": {
+                    "episode": "https://hellojarat.hu/episode/turkiz-viztukrok-toszkan-elvezet-szureti-menet/",
+                    "episode_date": "2025-09-10",
+                    "mm_extract": "#",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/uzma7n9kkqrl275u4po29/album.jpg?rlkey=i3sevyo76hiecgqh9nwpfyphr&st=5z25r0hu&raw=1",
+                        "description": "Africa Express",
+                        "song": "Africa Express – Pánico",
+                        "spotifylink": "https://open.spotify.com/track/7vGbzBMiH3WPSgT5GJB54B?si=81d18871ce97493b"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/7vjlozllnsej5jxnj3asy/picture.jpg?rlkey=fz9lrcnqe2gquwo5yca8ywpyk&st=vcqb5swv&raw=1",
+                        "description": "Peter Doig"
+                    }
+                },
+                "9": {
+                    "episode": "https://hellojarat.hu/episode/back-on-track-indul-a-szeptember/",
+                    "episode_date": "2025-09-03",
+                    "mm_extract": "#",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/bccq5zia88y9thhcmykrf/ginger.jpg?rlkey=p37e8uh58af99su38oz8xwyxo&st=sqfgwhg5&raw=1",
+                        "description": "Album: Ginger Johnson and His African Messengers - African Party",
+                        "song": "Album: Ginger Johnson and His African Messengers - African Party",
+                        "spotifylink": "https://open.spotify.com/track/27wL8XneNGJ5S12KIxLrqO?si=372a3f183e0e473f"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/mtrzb6fi0j3gp8b4tscsz/spider-ii-1995.jpg-Large.jpg?rlkey=lzu9zaql3db6eacyp1woxh25d&st=laaftjtv&raw=1",
+                        "description": "Louise Bourgeois - Spider II."
+                    }
                 }
-            },
-              "9": {
-                  "episode": "https://hellojarat.hu/episode/back-on-track-indul-a-szeptember/",
-                  "episode_date": "2025-09-03",
-                  "mm_extract": "#",
-                  "album": {
-                      "photolink": "https://www.dropbox.com/scl/fi/bccq5zia88y9thhcmykrf/ginger.jpg?rlkey=p37e8uh58af99su38oz8xwyxo&st=sqfgwhg5&raw=1",
-                      "description": "Album: Ginger Johnson and His African Messengers - African Party",
-                      "song": "Album: Ginger Johnson and His African Messengers - African Party",
-                      "spotifylink": "https://open.spotify.com/track/27wL8XneNGJ5S12KIxLrqO?si=372a3f183e0e473f"
-                  },
-                  "picture": {
-                      "photolink": "https://www.dropbox.com/scl/fi/mtrzb6fi0j3gp8b4tscsz/spider-ii-1995.jpg-Large.jpg?rlkey=lzu9zaql3db6eacyp1woxh25d&st=laaftjtv&raw=1",
-                      "description": "Louise Bourgeois - Spider II."
-                  }
-              }
-
-      }
+            }
+        },
+        "metadata": {
+            "series": "2025/2026",
+            "year": 2025
+        }
     },
-      "metadata": {
-          "series": "2025/2026",
-          "year": 2025
-      }
-  },
     "2": {
         "months": {
             "6_july": {
