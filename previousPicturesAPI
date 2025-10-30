@@ -2,15 +2,45 @@
     "1": {
         "months": {
             "10_oct": {
-                "7": {
+                "5": {
                     "episode": "#",
+                    "episode_date": "2025-10-29",
+                    "mm_extract": "#",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/4x2rcu3s0yfmofnxaon9x/album.jpg?rlkey=qgzskjaep2bc2wbvd26mli307&st=e2wsakop&raw=1",
+                        "description": "Edoardo Florio de Grazie",
+                        "song": "Edoardo Florio de Grazie",
+                        "spotifylink": "https://open.spotify.com/track/5ZctBb9peJwZZHFcPVFug0?si=aa0c110db82d4d4f"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/7zb5ojq4shexbb1fem774/picture.jpg?rlkey=y9p0ph7j9mlqkx7m2f7k57pcy&st=9hf7yo6w&raw=1",
+                        "description": "Szinyei Merse Pál"
+                    }
+                },
+                "6": {
+                    "episode": "#",
+                    "episode_date": "2025-10-22",
+                    "mm_extract": "#",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/61pji1j6jl61yvysed4eg/vinyl.jpg?rlkey=xoh2bjb8ai5vslt6hdv0fffuh&st=ijqoslkq&raw=1",
+                        "description": "Keznamdi",
+                        "song": "Keznamdi",
+                        "spotifylink": "#"
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/0gxxdcbaohui6ro9h5clr/kep.jpeg?rlkey=g1gpft8v1gb1lldguaiznjt1t&st=frzxkoh0&raw=1",
+                        "description": "Basilica Santa Cosma e Damiano"
+                    }
+                },
+                "7": {
+                    "episode": "https://hellojarat.hu/episode/nobel-dijak-kabocak-rimelo-hegyek/",
                     "episode_date": "2025-10-15",
                     "mm_extract": "#",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/k7n2qoqry3ed8003aamio/album.jpg?rlkey=sc3sz17f9vydnxlntcokxarur&st=ssekicjo&raw=1",
                         "description": "Bassolino",
                         "song": "Bassolino",
-                        "spotifylink": "#"
+                        "spotifylink": "https://open.spotify.com/track/2VMQxTM1AcOYLEi2EPK44y?si=b6e09e61b0894a09"
                     },
                     "picture": {
                         "photolink": "https://www.dropbox.com/scl/fi/lh8au8o2yd0ac546s1uiz/picture.jpeg?rlkey=20b5vizfi5ys8yehhigq5owz8&st=iua8qu8h&raw=1",
@@ -18,7 +48,7 @@
                     }
                 },
                 "8": {
-                    "episode": "#",
+                    "episode": "https://hellojarat.hu/episode/hogy-viselkedj-borkostolon-kapuscinski-es-ujra-osz-lett/",
                     "episode_date": "2025-10-08",
                     "mm_extract": "#",
                     "album": {
