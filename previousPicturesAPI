@@ -1,9 +1,26 @@
 {
     "1": {
         "months": {
+            "11_nov": {
+                "9": {
+                    "episode": "",
+                    "episode_date": "2025-11-05",
+                    "mm_extract": "#",
+                    "album": {
+                        "photolink": "https://www.dropbox.com/scl/fi/4y13s7r18c53561kjtdxg/album.jpg?rlkey=ojwgvb8ygp8m3rk321xnoimmd&st=18k87cyo&raw=1",
+                        "description": "Say She She",
+                        "song": "",
+                        "spotifylink": ""
+                    },
+                    "picture": {
+                        "photolink": "https://www.dropbox.com/scl/fi/vzzk335kpxrwvqbzpq6od/kep.jpg?rlkey=9htp432ia500r2bwtf0hp2lsc&st=oi7lw2kp&raw=1",
+                        "description": "Csiszer Zsuzsi"
+                    }
+                }
+            },
             "10_oct": {
                 "5": {
-                    "episode": "#",
+                    "episode": "https://hellojarat.hu/episode/napon-szarado-ruhak-eletvezetes-es-diane-keaton/",
                     "episode_date": "2025-10-29",
                     "mm_extract": "#",
                     "album": {
@@ -18,14 +35,14 @@
                     }
                 },
                 "6": {
-                    "episode": "#",
+                    "episode": "https://hellojarat.hu/episode/orom-az-asztalnal-szakallak-es-szilankok/",
                     "episode_date": "2025-10-22",
                     "mm_extract": "#",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/61pji1j6jl61yvysed4eg/vinyl.jpg?rlkey=xoh2bjb8ai5vslt6hdv0fffuh&st=ijqoslkq&raw=1",
                         "description": "Keznamdi",
                         "song": "Keznamdi",
-                        "spotifylink": "#"
+                        "spotifylink": "https://open.spotify.com/track/06gj1s9YEqOjrjmOg7tjNc?si=a2ae7e279d4c4bf0"
                     },
                     "picture": {
                         "photolink": "https://www.dropbox.com/scl/fi/0gxxdcbaohui6ro9h5clr/kep.jpeg?rlkey=g1gpft8v1gb1lldguaiznjt1t&st=frzxkoh0&raw=1",
