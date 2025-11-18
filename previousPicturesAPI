@@ -1,168 +1,184 @@
-{
-    "1": {
-        "months": {
-            "11_nov": {
-                "9": {
-                    "episode": "",
-                    "episode_date": "2025-11-05",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/4y13s7r18c53561kjtdxg/album.jpg?rlkey=ojwgvb8ygp8m3rk321xnoimmd&st=18k87cyo&raw=1",
-                        "description": "Say She She",
-                        "song": "",
-                        "spotifylink": ""
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/vzzk335kpxrwvqbzpq6od/kep.jpg?rlkey=9htp432ia500r2bwtf0hp2lsc&st=oi7lw2kp&raw=1",
-                        "description": "Csiszer Zsuzsi"
-                    }
-                }
-            },
-            "10_oct": {
-                "5": {
-                    "episode": "https://hellojarat.hu/episode/napon-szarado-ruhak-eletvezetes-es-diane-keaton/",
-                    "episode_date": "2025-10-29",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/4x2rcu3s0yfmofnxaon9x/album.jpg?rlkey=qgzskjaep2bc2wbvd26mli307&st=e2wsakop&raw=1",
-                        "description": "Edoardo Florio de Grazie",
-                        "song": "Edoardo Florio de Grazie",
-                        "spotifylink": "https://open.spotify.com/track/5ZctBb9peJwZZHFcPVFug0?si=aa0c110db82d4d4f"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/7zb5ojq4shexbb1fem774/picture.jpg?rlkey=y9p0ph7j9mlqkx7m2f7k57pcy&st=9hf7yo6w&raw=1",
-                        "description": "Szinyei Merse Pál"
-                    }
-                },
-                "6": {
-                    "episode": "https://hellojarat.hu/episode/orom-az-asztalnal-szakallak-es-szilankok/",
-                    "episode_date": "2025-10-22",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/61pji1j6jl61yvysed4eg/vinyl.jpg?rlkey=xoh2bjb8ai5vslt6hdv0fffuh&st=ijqoslkq&raw=1",
-                        "description": "Keznamdi",
-                        "song": "Keznamdi",
-                        "spotifylink": "https://open.spotify.com/track/06gj1s9YEqOjrjmOg7tjNc?si=a2ae7e279d4c4bf0"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/0gxxdcbaohui6ro9h5clr/kep.jpeg?rlkey=g1gpft8v1gb1lldguaiznjt1t&st=frzxkoh0&raw=1",
-                        "description": "Basilica Santa Cosma e Damiano"
-                    }
-                },
-                "7": {
-                    "episode": "https://hellojarat.hu/episode/nobel-dijak-kabocak-rimelo-hegyek/",
-                    "episode_date": "2025-10-15",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/k7n2qoqry3ed8003aamio/album.jpg?rlkey=sc3sz17f9vydnxlntcokxarur&st=ssekicjo&raw=1",
-                        "description": "Bassolino",
-                        "song": "Bassolino",
-                        "spotifylink": "https://open.spotify.com/track/2VMQxTM1AcOYLEi2EPK44y?si=b6e09e61b0894a09"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/lh8au8o2yd0ac546s1uiz/picture.jpeg?rlkey=20b5vizfi5ys8yehhigq5owz8&st=iua8qu8h&raw=1",
-                        "description": "Ádám Zoltán"
-                    }
-                },
-                "8": {
-                    "episode": "https://hellojarat.hu/episode/hogy-viselkedj-borkostolon-kapuscinski-es-ujra-osz-lett/",
-                    "episode_date": "2025-10-08",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/z4y33lepq9pyoxebpo97j/vinyl.jpg?rlkey=iwhkj0a11jy0se62zx9e3onew&st=lgpuu2qk&raw=1",
-                        "description": "Emma-Jean Thackray",
-                        "song": "Emma-Jean Thackray",
-                        "spotifylink": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz?si=e080b261dca54456"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/o13bv222myq4q7zucixoh/picture.jpg?rlkey=tshnxi6akka19vvoszwwndytf&st=qeje1ac2&raw=1",
-                        "description": "Rédling Hanna"
-                    }
-                },
-                "9": {
-                    "episode": "https://hellojarat.hu/episode/nyugodt-szlovak-kozterek-afrikai-maszkok-es-egy-bekeparti-eposz/",
-                    "episode_date": "2025-10-01",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/kd329stpst9cutrmshaqf/album.jpg?rlkey=hnfuy3hplqdmvmwsguuyxjwud&st=q6rwtelj&raw=1",
-                        "description": "Guiss Guiss",
-                        "song": "Guiss Guiss",
-                        "spotifylink": "https://open.spotify.com/track/4qtTxXGhDMCTrFuCEFzqyj?si=2b271a5f3d5e4582"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/7np7ox2v6t59e31uc6mc9/picture.jpg?rlkey=ycwj3qgo9x09fs67pitzkrxzz&st=jlkxk9ss&raw=1",
-                        "description": "Picasso"
-                    }
-                }
-            },
-            "9_sept": {
-                "6": {
-                    "episode": "https://hellojarat.hu/episode/mor-koruli-ettermek-stendhal-italiaja-es-egy-meztolvaj/",
-                    "episode_date": "2025-09-24",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/erbdxqyvlgfmbjuupy74d/album.jpg?rlkey=05c5l0epuvqy70617j7bacliz&st=hkdku2iv&raw=1",
-                        "description": "Sulamerica",
-                        "song": "Sulamerica",
-                        "spotifylink": "https://open.spotify.com/track/320eJcuoxcnAMS5kItkEaz?si=378b54c9724b46c4"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/4ffyuwo8nq51i8k8s8osg/picture.jpg?rlkey=eipy2clsiw35u8qe5pr5x2gdv&st=3ns932ti&raw=1",
-                        "description": "Göbölyös Luca"
-                    }
-                },
-                "7": {
-                    "episode": "https://hellojarat.hu/episode/kieso-jokics-kozossegi-szuret-neznivalo-kiallitasok/",
-                    "episode_date": "2025-09-17",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/qc819clmzn1eanqunshrk/album.jpg?rlkey=9j2hperr8mxmbqu6ldps2v27q&st=wd95dspk&raw=1",
-                        "description": "Boogie Rookie",
-                        "song": "Boogie Rookie",
-                        "spotifylink": "https://open.spotify.com/track/7H2Kv3x27KST6zkVsfjNca?si=6c7ef475d3a34043"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/f67o9fmgmisfx6ml3acy0/picture.jpg?rlkey=b9qpce8d5ufm032jgjba10j8a&st=240p0sle&raw=1",
-                        "description": "Szabó Eszter Ágnes"
-                    }
-                },
-                "8": {
-                    "episode": "https://hellojarat.hu/episode/turkiz-viztukrok-toszkan-elvezet-szureti-menet/",
-                    "episode_date": "2025-09-10",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/uzma7n9kkqrl275u4po29/album.jpg?rlkey=i3sevyo76hiecgqh9nwpfyphr&st=5z25r0hu&raw=1",
-                        "description": "Africa Express",
-                        "song": "Africa Express – Pánico",
-                        "spotifylink": "https://open.spotify.com/track/7vGbzBMiH3WPSgT5GJB54B?si=81d18871ce97493b"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/7vjlozllnsej5jxnj3asy/picture.jpg?rlkey=fz9lrcnqe2gquwo5yca8ywpyk&st=vcqb5swv&raw=1",
-                        "description": "Peter Doig"
-                    }
-                },
-                "9": {
-                    "episode": "https://hellojarat.hu/episode/back-on-track-indul-a-szeptember/",
-                    "episode_date": "2025-09-03",
-                    "mm_extract": "#",
-                    "album": {
-                        "photolink": "https://www.dropbox.com/scl/fi/bccq5zia88y9thhcmykrf/ginger.jpg?rlkey=p37e8uh58af99su38oz8xwyxo&st=sqfgwhg5&raw=1",
-                        "description": "Album: Ginger Johnson and His African Messengers - African Party",
-                        "song": "Album: Ginger Johnson and His African Messengers - African Party",
-                        "spotifylink": "https://open.spotify.com/track/27wL8XneNGJ5S12KIxLrqO?si=372a3f183e0e473f"
-                    },
-                    "picture": {
-                        "photolink": "https://www.dropbox.com/scl/fi/mtrzb6fi0j3gp8b4tscsz/spider-ii-1995.jpg-Large.jpg?rlkey=lzu9zaql3db6eacyp1woxh25d&st=laaftjtv&raw=1",
-                        "description": "Louise Bourgeois - Spider II."
-                    }
-                }
-            }
+{  "1": {
+      "months": {
+        "11_nov": {
+          "8": {
+              "episode": "",
+              "episode_date": "2025-11-12",
+              "mm_extract": "#",
+              "album": {
+                  "photolink": "https://www.dropbox.com/scl/fi/x6jc71ci6hd3m14ji5hjy/album.jpg?rlkey=poks50anw6sjdcq40f4qi3luu&st=xe0sw15t&raw=1",
+                  "description": "Mon Laferte",
+                  "song": "",
+                  "spotifylink": ""
+              },
+              "picture": {
+                  "photolink": "https://www.dropbox.com/scl/fi/o8jbi4vrs8p3nyiiln40b/picture.jpg?rlkey=uooix7j5wib1xm2vf81e1dfgw&st=zqgjj6v1&raw=1",
+                  "description": "Selma Selman"
+              }
+          },
+          "9": {
+              "episode": "",
+              "episode_date": "2025-11-05",
+              "mm_extract": "#",
+              "album": {
+                  "photolink": "https://www.dropbox.com/scl/fi/4y13s7r18c53561kjtdxg/album.jpg?rlkey=ojwgvb8ygp8m3rk321xnoimmd&st=18k87cyo&raw=1",
+                  "description": "Say She She",
+                  "song": "",
+                  "spotifylink": ""
+              },
+              "picture": {
+                  "photolink": "https://www.dropbox.com/scl/fi/vzzk335kpxrwvqbzpq6od/kep.jpg?rlkey=9htp432ia500r2bwtf0hp2lsc&st=oi7lw2kp&raw=1",
+                  "description": "Csiszer Zsuzsi"
+              }
+          }
         },
-        "metadata": {
-            "series": "2025/2026",
-            "year": 2025
-        }
+        "10_oct": {
+          "5": {
+              "episode": "https://hellojarat.hu/episode/napon-szarado-ruhak-eletvezetes-es-diane-keaton/",
+              "episode_date": "2025-10-29",
+              "mm_extract": "#",
+              "album": {
+                  "photolink": "https://www.dropbox.com/scl/fi/4x2rcu3s0yfmofnxaon9x/album.jpg?rlkey=qgzskjaep2bc2wbvd26mli307&st=e2wsakop&raw=1",
+                  "description": "Edoardo Florio de Grazie",
+                  "song": "Edoardo Florio de Grazie",
+                  "spotifylink": "https://open.spotify.com/track/5ZctBb9peJwZZHFcPVFug0?si=aa0c110db82d4d4f"
+              },
+              "picture": {
+                  "photolink": "https://www.dropbox.com/scl/fi/7zb5ojq4shexbb1fem774/picture.jpg?rlkey=y9p0ph7j9mlqkx7m2f7k57pcy&st=9hf7yo6w&raw=1",
+                  "description": "Szinyei Merse Pál"
+              }
+          },
+          "6": {
+              "episode": "https://hellojarat.hu/episode/orom-az-asztalnal-szakallak-es-szilankok/",
+              "episode_date": "2025-10-22",
+              "mm_extract": "#",
+              "album": {
+                  "photolink": "https://www.dropbox.com/scl/fi/61pji1j6jl61yvysed4eg/vinyl.jpg?rlkey=xoh2bjb8ai5vslt6hdv0fffuh&st=ijqoslkq&raw=1",
+                  "description": "Keznamdi",
+                  "song": "Keznamdi",
+                  "spotifylink": "https://open.spotify.com/track/06gj1s9YEqOjrjmOg7tjNc?si=a2ae7e279d4c4bf0"
+              },
+              "picture": {
+                  "photolink": "https://www.dropbox.com/scl/fi/0gxxdcbaohui6ro9h5clr/kep.jpeg?rlkey=g1gpft8v1gb1lldguaiznjt1t&st=frzxkoh0&raw=1",
+                  "description": "Basilica Santa Cosma e Damiano"
+              }
+          },
+          "7": {
+              "episode": "https://hellojarat.hu/episode/nobel-dijak-kabocak-rimelo-hegyek/",
+              "episode_date": "2025-10-15",
+              "mm_extract": "#",
+              "album": {
+                  "photolink": "https://www.dropbox.com/scl/fi/k7n2qoqry3ed8003aamio/album.jpg?rlkey=sc3sz17f9vydnxlntcokxarur&st=ssekicjo&raw=1",
+                  "description": "Bassolino",
+                  "song": "Bassolino",
+                  "spotifylink": "https://open.spotify.com/track/2VMQxTM1AcOYLEi2EPK44y?si=b6e09e61b0894a09"
+              },
+              "picture": {
+                  "photolink": "https://www.dropbox.com/scl/fi/lh8au8o2yd0ac546s1uiz/picture.jpeg?rlkey=20b5vizfi5ys8yehhigq5owz8&st=iua8qu8h&raw=1",
+                  "description": "Ádám Zoltán"
+              }
+          },
+          "8": {
+              "episode": "https://hellojarat.hu/episode/hogy-viselkedj-borkostolon-kapuscinski-es-ujra-osz-lett/",
+              "episode_date": "2025-10-08",
+              "mm_extract": "#",
+              "album": {
+                  "photolink": "https://www.dropbox.com/scl/fi/z4y33lepq9pyoxebpo97j/vinyl.jpg?rlkey=iwhkj0a11jy0se62zx9e3onew&st=lgpuu2qk&raw=1",
+                  "description": "Emma-Jean Thackray",
+                  "song": "Emma-Jean Thackray",
+                  "spotifylink": "https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz?si=e080b261dca54456"
+              },
+              "picture": {
+                  "photolink": "https://www.dropbox.com/scl/fi/o13bv222myq4q7zucixoh/picture.jpg?rlkey=tshnxi6akka19vvoszwwndytf&st=qeje1ac2&raw=1",
+                  "description": "Rédling Hanna"
+              }
+          },
+          "9": {
+              "episode": "https://hellojarat.hu/episode/nyugodt-szlovak-kozterek-afrikai-maszkok-es-egy-bekeparti-eposz/",
+              "episode_date": "2025-10-01",
+              "mm_extract": "#",
+              "album": {
+                  "photolink": "https://www.dropbox.com/scl/fi/kd329stpst9cutrmshaqf/album.jpg?rlkey=hnfuy3hplqdmvmwsguuyxjwud&st=q6rwtelj&raw=1",
+                  "description": "Guiss Guiss",
+                  "song": "Guiss Guiss",
+                  "spotifylink": "https://open.spotify.com/track/4qtTxXGhDMCTrFuCEFzqyj?si=2b271a5f3d5e4582"
+              },
+              "picture": {
+                  "photolink": "https://www.dropbox.com/scl/fi/7np7ox2v6t59e31uc6mc9/picture.jpg?rlkey=ycwj3qgo9x09fs67pitzkrxzz&st=jlkxk9ss&raw=1",
+                  "description": "Picasso"
+              }
+          }
+
+        },
+          "9_sept": {
+            "6": {
+                "episode": "https://hellojarat.hu/episode/mor-koruli-ettermek-stendhal-italiaja-es-egy-meztolvaj/",
+                "episode_date": "2025-09-24",
+                "mm_extract": "#",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/erbdxqyvlgfmbjuupy74d/album.jpg?rlkey=05c5l0epuvqy70617j7bacliz&st=hkdku2iv&raw=1",
+                    "description": "Sulamerica",
+                    "song": "Sulamerica",
+                    "spotifylink": "https://open.spotify.com/track/320eJcuoxcnAMS5kItkEaz?si=378b54c9724b46c4"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/4ffyuwo8nq51i8k8s8osg/picture.jpg?rlkey=eipy2clsiw35u8qe5pr5x2gdv&st=3ns932ti&raw=1",
+                    "description": "Göbölyös Luca"
+                }
+            },
+            "7": {
+                "episode": "https://hellojarat.hu/episode/kieso-jokics-kozossegi-szuret-neznivalo-kiallitasok/",
+                "episode_date": "2025-09-17",
+                "mm_extract": "#",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/qc819clmzn1eanqunshrk/album.jpg?rlkey=9j2hperr8mxmbqu6ldps2v27q&st=wd95dspk&raw=1",
+                    "description": "Boogie Rookie",
+                    "song": "Boogie Rookie",
+                    "spotifylink": "https://open.spotify.com/track/7H2Kv3x27KST6zkVsfjNca?si=6c7ef475d3a34043"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/f67o9fmgmisfx6ml3acy0/picture.jpg?rlkey=b9qpce8d5ufm032jgjba10j8a&st=240p0sle&raw=1",
+                    "description": "Szabó Eszter Ágnes"
+                }
+            },
+            "8": {
+                "episode": "https://hellojarat.hu/episode/turkiz-viztukrok-toszkan-elvezet-szureti-menet/",
+                "episode_date": "2025-09-10",
+                "mm_extract": "#",
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/uzma7n9kkqrl275u4po29/album.jpg?rlkey=i3sevyo76hiecgqh9nwpfyphr&st=5z25r0hu&raw=1",
+                    "description": "Africa Express",
+                    "song": "Africa Express – Pánico",
+                    "spotifylink": "https://open.spotify.com/track/7vGbzBMiH3WPSgT5GJB54B?si=81d18871ce97493b"
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/7vjlozllnsej5jxnj3asy/picture.jpg?rlkey=fz9lrcnqe2gquwo5yca8ywpyk&st=vcqb5swv&raw=1",
+                    "description": "Peter Doig"
+                }
+            },
+              "9": {
+                  "episode": "https://hellojarat.hu/episode/back-on-track-indul-a-szeptember/",
+                  "episode_date": "2025-09-03",
+                  "mm_extract": "#",
+                  "album": {
+                      "photolink": "https://www.dropbox.com/scl/fi/bccq5zia88y9thhcmykrf/ginger.jpg?rlkey=p37e8uh58af99su38oz8xwyxo&st=sqfgwhg5&raw=1",
+                      "description": "Album: Ginger Johnson and His African Messengers - African Party",
+                      "song": "Album: Ginger Johnson and His African Messengers - African Party",
+                      "spotifylink": "https://open.spotify.com/track/27wL8XneNGJ5S12KIxLrqO?si=372a3f183e0e473f"
+                  },
+                  "picture": {
+                      "photolink": "https://www.dropbox.com/scl/fi/mtrzb6fi0j3gp8b4tscsz/spider-ii-1995.jpg-Large.jpg?rlkey=lzu9zaql3db6eacyp1woxh25d&st=laaftjtv&raw=1",
+                      "description": "Louise Bourgeois - Spider II."
+                  }
+              }
+
+      }
     },
+      "metadata": {
+          "series": "2025/2026",
+          "year": 2025
+      }
+  },
     "2": {
         "months": {
             "6_july": {
