@@ -1,6 +1,21 @@
 {  "1": {
       "months": {
         "11_nov": {
+          "6": {
+              "episode": "",
+              "episode_date": "2025-11-26",
+              "mm_extract": "#",
+              "album": {
+                  "photolink": "https://www.dropbox.com/scl/fi/9oqykcd937ef9lsnjkym5/album.jpg?rlkey=zopkq0qf1wlv7v70yzkfyazxg&st=f4mkldop&raw=1",
+                  "description": "Mungo's Hi-Fi",
+                  "song": "",
+                  "spotifylink": ""
+              },
+              "picture": {
+                  "photolink": "https://www.dropbox.com/scl/fi/94t9ooww2hie0loevkowl/picture.jpg?rlkey=rpkr8h3ldwk3dihjv59e0bs29&st=gcg3efet&raw=1",
+                  "description": "Lobot Balázs"
+              }
+          },
           "7": {
               "episode": "",
               "episode_date": "2025-11-19",
