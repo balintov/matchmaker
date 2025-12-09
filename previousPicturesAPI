@@ -1,5 +1,23 @@
 {  "1": {
       "months": {
+        "12dec": {
+          "9": {
+              "episode": "",
+              "episode_date": "2025-12-03",
+              "mm_extract": "#",
+              "album": {
+                  "photolink": "https://www.dropbox.com/scl/fi/sshbvsbmsgm8riyg1pyq4/album.jpg?rlkey=vm79ithicr0vifwg8zpnjvqtp&st=bs5ur2pa&raw=1",
+                  "description": "Big Sleep",
+                  "song": "Big Sleep",
+                  "spotifylink": ""
+              },
+              "picture": {
+                  "photolink": "https://www.dropbox.com/scl/fi/xjxjyaf74lhl2c6h5lhtr/picture.jpeg?rlkey=7zalavulrwewru8i34gotvaud&st=7wdjz8ka&raw=1",
+                  "description": "Benczúr Emese"
+              }
+          },
+
+        }
         "11_nov": {
           "6": {
               "episode": "",
@@ -8,7 +26,7 @@
               "album": {
                   "photolink": "https://www.dropbox.com/scl/fi/9oqykcd937ef9lsnjkym5/album.jpg?rlkey=zopkq0qf1wlv7v70yzkfyazxg&st=f4mkldop&raw=1",
                   "description": "Mungo's Hi-Fi",
-                  "song": "",
+                  "song": "Mungo's Hi-Fi",
                   "spotifylink": ""
               },
               "picture": {
@@ -23,7 +41,7 @@
               "album": {
                   "photolink": "https://www.dropbox.com/scl/fi/cftcux9tg5rejsn5ymj5x/album.jpg?rlkey=2lci8yphx54y1l8i3unado12s&st=aml323eb&raw=1",
                   "description": "Die Spitz",
-                  "song": "",
+                  "song": "Die Spitz",
                   "spotifylink": ""
               },
               "picture": {
@@ -38,7 +56,7 @@
               "album": {
                   "photolink": "https://www.dropbox.com/scl/fi/x6jc71ci6hd3m14ji5hjy/album.jpg?rlkey=poks50anw6sjdcq40f4qi3luu&st=xe0sw15t&raw=1",
                   "description": "Mon Laferte",
-                  "song": "",
+                  "song": "Mon Laferte",
                   "spotifylink": ""
               },
               "picture": {
@@ -53,7 +71,7 @@
               "album": {
                   "photolink": "https://www.dropbox.com/scl/fi/4y13s7r18c53561kjtdxg/album.jpg?rlkey=ojwgvb8ygp8m3rk321xnoimmd&st=18k87cyo&raw=1",
                   "description": "Say She She",
-                  "song": "",
+                  "song": "Say She She",
                   "spotifylink": ""
               },
               "picture": {
