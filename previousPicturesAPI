@@ -2,10 +2,25 @@
     "1": {
         "months": {
             "12dec": {
+              "8": {
+                  "episode": "",
+                  "episode_date": "2025-12-10",
+                  "mm_extract": false,
+                  "album": {
+                      "photolink": "https://www.dropbox.com/scl/fi/ptcbi4int3jl6svr57r1c/album.jpg?rlkey=mplayi3x4tehtgpulpukqxeaw&st=12s7kn59&raw=1",
+                      "description": "Kid Creole & The Coconuts",
+                      "song": "Kid Creole & The Coconuts",
+                      "spotifylink": ""
+                  },
+                  "picture": {
+                      "photolink": "https://www.dropbox.com/scl/fi/u3vsi1lf64x1caintb7hj/picture.jpeg?rlkey=0vrxmudjrn2fgb3xpcpyizsms&st=h0m41mbp&raw=1",
+                      "description": "Francoise Gilot"
+                  }
+              },
                 "9": {
                     "episode": "",
                     "episode_date": "2025-12-03",
-                    "mm_extract": "#",
+                    "mm_extract": false,
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/sshbvsbmsgm8riyg1pyq4/album.jpg?rlkey=vm79ithicr0vifwg8zpnjvqtp&st=bs5ur2pa&raw=1",
                         "description": "Big Sleep",
@@ -22,7 +37,7 @@
                 "6": {
                     "episode": "",
                     "episode_date": "2025-11-26",
-                    "mm_extract": "#",
+                    "mm_extract": false,
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/9oqykcd937ef9lsnjkym5/album.jpg?rlkey=zopkq0qf1wlv7v70yzkfyazxg&st=f4mkldop&raw=1",
                         "description": "Mungo's Hi-Fi",
@@ -37,7 +52,7 @@
                 "7": {
                     "episode": "",
                     "episode_date": "2025-11-19",
-                    "mm_extract": "#",
+                    "mm_extract": false,
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/cftcux9tg5rejsn5ymj5x/album.jpg?rlkey=2lci8yphx54y1l8i3unado12s&st=aml323eb&raw=1",
                         "description": "Die Spitz",
@@ -52,7 +67,7 @@
                 "8": {
                     "episode": "",
                     "episode_date": "2025-11-12",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/296il95gdy4exskctlfrt/mm_extract_11_12.mp3?rlkey=z96jk6715fmvz16bdbg34xkrd&st=qwqt8h7d&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/x6jc71ci6hd3m14ji5hjy/album.jpg?rlkey=poks50anw6sjdcq40f4qi3luu&st=xe0sw15t&raw=1",
                         "description": "Mon Laferte",
@@ -67,7 +82,7 @@
                 "9": {
                     "episode": "",
                     "episode_date": "2025-11-05",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/su6r4kcm3huvwejwjbdxs/mm_extract_11_05.mp3?rlkey=90f2drf59d34fcbkkfvt8qh41&st=0lybrqpe&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/4y13s7r18c53561kjtdxg/album.jpg?rlkey=ojwgvb8ygp8m3rk321xnoimmd&st=18k87cyo&raw=1",
                         "description": "Say She She",
@@ -84,7 +99,7 @@
                 "5": {
                     "episode": "https://hellojarat.hu/episode/napon-szarado-ruhak-eletvezetes-es-diane-keaton/",
                     "episode_date": "2025-10-29",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/9gh1yrinlncmzp84rzkyr/mm_extract_10_29.mp3?rlkey=vor33hqrtzzsu4iorplejngyh&st=16ln67m1&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/4x2rcu3s0yfmofnxaon9x/album.jpg?rlkey=qgzskjaep2bc2wbvd26mli307&st=e2wsakop&raw=1",
                         "description": "Edoardo Florio de Grazie",
@@ -99,7 +114,7 @@
                 "6": {
                     "episode": "https://hellojarat.hu/episode/orom-az-asztalnal-szakallak-es-szilankok/",
                     "episode_date": "2025-10-22",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/ezeld4addnywndrbtke6w/mm_extract_10_22.mp3?rlkey=h64bvvszemfl96wo22y98gbr6&st=3dszkwm1&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/61pji1j6jl61yvysed4eg/vinyl.jpg?rlkey=xoh2bjb8ai5vslt6hdv0fffuh&st=ijqoslkq&raw=1",
                         "description": "Keznamdi",
@@ -114,7 +129,7 @@
                 "7": {
                     "episode": "https://hellojarat.hu/episode/nobel-dijak-kabocak-rimelo-hegyek/",
                     "episode_date": "2025-10-15",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/inrtgcflksswrsmdkdmob/mm_extract_10_15.mp3?rlkey=fr2af4oclj79stvsbagijh6ke&st=4qfbphhx&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/k7n2qoqry3ed8003aamio/album.jpg?rlkey=sc3sz17f9vydnxlntcokxarur&st=ssekicjo&raw=1",
                         "description": "Bassolino",
@@ -129,7 +144,7 @@
                 "8": {
                     "episode": "https://hellojarat.hu/episode/hogy-viselkedj-borkostolon-kapuscinski-es-ujra-osz-lett/",
                     "episode_date": "2025-10-08",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/3spg4ja2nhrmky6fhmwij/mm_extract_10_08.mp3?rlkey=x0geh8seg99om78l1akv3n0zh&st=c4v41471&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/z4y33lepq9pyoxebpo97j/vinyl.jpg?rlkey=iwhkj0a11jy0se62zx9e3onew&st=lgpuu2qk&raw=1",
                         "description": "Emma-Jean Thackray",
@@ -144,7 +159,7 @@
                 "9": {
                     "episode": "https://hellojarat.hu/episode/nyugodt-szlovak-kozterek-afrikai-maszkok-es-egy-bekeparti-eposz/",
                     "episode_date": "2025-10-01",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/xe3ezxhvfab32st7akk57/mm_extract_10_01.mp3?rlkey=vo5meemk6es66qx3mu2p4pj72&st=u85mpnil&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/kd329stpst9cutrmshaqf/album.jpg?rlkey=hnfuy3hplqdmvmwsguuyxjwud&st=q6rwtelj&raw=1",
                         "description": "Guiss Guiss",
@@ -161,7 +176,7 @@
                 "6": {
                     "episode": "https://hellojarat.hu/episode/mor-koruli-ettermek-stendhal-italiaja-es-egy-meztolvaj/",
                     "episode_date": "2025-09-24",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/1yd4evbus26p9dfclz84x/mm_extract_09_24.mp3?rlkey=mb2zqwdibvpqd7tkvgyvq4tjl&st=b2q0y4le&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/erbdxqyvlgfmbjuupy74d/album.jpg?rlkey=05c5l0epuvqy70617j7bacliz&st=hkdku2iv&raw=1",
                         "description": "Sulamerica",
@@ -176,7 +191,7 @@
                 "7": {
                     "episode": "https://hellojarat.hu/episode/kieso-jokics-kozossegi-szuret-neznivalo-kiallitasok/",
                     "episode_date": "2025-09-17",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/flqgkbbl7bbg1isa0pzyn/mm_extract_09_17.mp3?rlkey=2nkxehdrrhi5ynjssrlh2yibp&st=5mlaxwzk&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/qc819clmzn1eanqunshrk/album.jpg?rlkey=9j2hperr8mxmbqu6ldps2v27q&st=wd95dspk&raw=1",
                         "description": "Boogie Rookie",
@@ -191,7 +206,7 @@
                 "8": {
                     "episode": "https://hellojarat.hu/episode/turkiz-viztukrok-toszkan-elvezet-szureti-menet/",
                     "episode_date": "2025-09-10",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/t7tqcdnwkht60h65pizjg/mm_extract_09_10.mp3?rlkey=aprgka8mb3jwo3hx2ncv4o3yw&st=6iv8edfq&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/uzma7n9kkqrl275u4po29/album.jpg?rlkey=i3sevyo76hiecgqh9nwpfyphr&st=5z25r0hu&raw=1",
                         "description": "Africa Express",
@@ -206,7 +221,7 @@
                 "9": {
                     "episode": "https://hellojarat.hu/episode/back-on-track-indul-a-szeptember/",
                     "episode_date": "2025-09-03",
-                    "mm_extract": "#",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/zpg50ezh5z3q4ftk4t3fk/mm_extract_09_03.mp3?rlkey=f77dqmxxh25gibc1r7gen7mtb&st=2x09mef1&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/bccq5zia88y9thhcmykrf/ginger.jpg?rlkey=p37e8uh58af99su38oz8xwyxo&st=sqfgwhg5&raw=1",
                         "description": "Album: Ginger Johnson and His African Messengers - African Party",
@@ -231,7 +246,7 @@
                 "8": {
                     "episode": "https://hellojarat.hu/episode/csodas-pecs-valtozo-sportok-lengyel-popart/",
                     "episode_date": "2025-07-09",
-                    "mm_extract": "https://dl.dropbox.com/scl/fi/bp90g70t7pz0ru234mbb2/matchmaker_07_09.mp3?rlkey=8uiufp94u4d7x8vqo46b4y1mo&st=txjttsyd",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/n42862xdc3wy2sjrv0qmz/matchmaker_07_09.mp3?rlkey=5azxzq9b9gahips7dfd475spw&st=lf5ctxq9&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/e8j7y2wew7fsox3j34ggo/album.jpg?rlkey=3dxlmdjlqm3tdpar05h0s54zr&st=w9525jkd&raw=1",
                         "description": "Wojciech Karolak – Why Not Samba",
@@ -246,7 +261,7 @@
                 "9": {
                     "episode": "https://hellojarat.hu/episode/lassulas-hegyi-beszed-gorillaz/",
                     "episode_date": "2025-07-01",
-                    "mm_extract": "https://dl.dropbox.com/scl/fi/zmslwep34sfs8f4kmy2y8/matchmaker_07_01.mp3?rlkey=9ptmddsusy1szi1z0h8xkgy3p&st=ypn0kzud&dl=1",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/y24xvjqumhlxqquhfj87b/matchmaker_07_01.mp3?rlkey=lcqgwgcbisuhjrl8pj0kqs4br&st=5qxlmaa2&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/9xmpgep1shwqmy4y709mt/album.jpg?rlkey=z5nobm4r8xxuw1li8v0i8rgnu&st=4v00n2j0&raw=1",
                         "description": "Ballaké Sissoko, Vincent Segal, Emile Parisien, Vincent Peirani – Grana od bora",
@@ -263,7 +278,7 @@
                 "8": {
                     "episode": "https://hellojarat.hu/episode/szeretet-a-hegyen-nyugalom-a-matchmakerben-es-egy-fiuklub/",
                     "episode_date": "2025-06-11",
-                    "mm_extract": "https://dl.dropbox.com/scl/fo/0bcakxyfgqdf8ccn5iuri/AIsGp9x9PSxSA0MjpoFv_xs?rlkey=l52lud55wnrq6urywimitadk5&st=yycshnmt&raw=1",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/g2ojjsgvizpuvmciooe2a/matchmaker_06_11.mp3?rlkey=l88qaihgw6y2ji5h0e1kxuhtt&st=1phh7y2a&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/mm5qeu40cfnxgy34ifgue/album.jpg?rlkey=dj95xjr689dpon92xb1sw8qdr&st=cj97dyi6&raw=1",
                         "description": "St. Etienne – Glad",
@@ -278,9 +293,9 @@
                 "9": {
                     "episode": "https://hellojarat.hu/episode/ejjeli-autozas-dolgos-mehek-es-tanc-mindenekfelett/",
                     "episode_date": "2025-06-04",
-                    "mm_extract": "https://www.dropbox.com/scl/fi/f4t3qmgc836um7kgvdsrt/matchmaker_06_04.mp3?rlkey=fr4ldukmgxsm3351rmcfugpw1&st=znrbrous&raw=1",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/bxw5b8j7ykdd14lbjeuig/matchmaker_06_04.mp3?rlkey=m2mt73cc6er5v1v3t0pxvcr7n&st=7mh3uqmg&dl=1",
                     "album": {
-                        "photolink": "https://dl.dropbox.com/scl/fi/gfvqk10sy1o5xt2r5rk23/album.jpg?rlkey=wmhc1r4463yy44kaxg59ccsc6&st=vzda76ub&raw=1",
+                        "photolink": "https://www.dropbox.com/scl/fi/gfvqk10sy1o5xt2r5rk23/album.jpg?rlkey=wmhc1r4463yy44kaxg59ccsc6&st=vzda76ub&raw=1",
                         "description": "Trinix – Vaitimbora feat. Marie Froes",
                         "song": "Trinix – Vaitimbora feat. Marie Froes",
                         "spotifylink": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm?si=cf8cc6be412c4fd6"
@@ -295,7 +310,7 @@
                 "7": {
                     "episode": "https://hellojarat.hu/episode/mozgalmas-gyerekzsur-vadulo-belpolitika-legendas-brit-parosok/",
                     "episode_date": "2025-05-30",
-                    "mm_extract": "https://dl.dropbox.com/scl/fi/ffs4asuk71bsllpccksy9/matchmaker_05_30.mp3",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/6qk997goi8gav9f6l4d9d/matchmaker_05_30.mp3?rlkey=sxjtsk6gv9lddcd0pfxtluilb&st=8ihauatf&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/z5ag3qrjy55o26snlb0or/album.jpg?rlkey=a6hg5b4qi014v9s3w617jp0mv&st=jlse010s&raw=1",
                         "description": "Matchmaker – Bronski Beat & Mark Almond",
@@ -310,7 +325,7 @@
                 "8": {
                     "episode": "https://hellojarat.hu/episode/csodas-krakko-jelentos-toasztkenyerek-es-elirt-szovegek/",
                     "episode_date": "2025-05-21",
-                    "mm_extract": "https://www.dropbox.com/scl/fi/kdbhcoe8dlcpza14u681h/matchmaker_05_21.mp3?rlkey=uc133hqirw3hh8ykir6ol9oj3&st=8g4acrpo&raw=1",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/5h156ka8iuceuts3glp7p/matchmaker_05_21.mp3?rlkey=n1qale5o49jt3qmcvs5597c2e&st=z0tpdcll&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/uw0bvvt18tkwf3lb6u5yv/album.jpg?rlkey=95x7fmy82kazvhs4s9apwb3mg&st=kyhwhqg0&raw=1",
                         "description": "Pan Amsterdam – NYC Town",
@@ -325,7 +340,7 @@
                 "9": {
                     "episode": "https://hellojarat.hu/episode/nezobarat-kiallitasok-diszko-parizsbol-negyzetes-varoskepek/",
                     "episode_date": "2025-05-11",
-                    "mm_extract": "https://www.dropbox.com/scl/fi/vuvnl3lerjwb23gwqs14h/matchmaker_05_11.mp3?rlkey=h5ry3wxwmq2nmg3oar7eg5j4l&st=1hwz9cak&raw=1",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/swyn9ae1nufk94m586bs4/matchmaker_05_11.mp3?rlkey=vwmeg77y03j8la6zvun7z4qoc&st=l68zrq5a&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/x721vz3ttgu23d2gydd4r/album.jpg?rlkey=n9msiqpgztbnaf5ij0oe8eh5c&st=13n1fd1o&raw=1",
                         "description": "Bon Iver – Everything Is Peaceful Love",
@@ -342,7 +357,7 @@
                 "8": {
                     "episode": "https://hellojarat.hu/episode/sok-munka-a-foldeken-sok-munka-a-szinpadokon-es-cezanne-forever/",
                     "episode_date": "2025-04-24",
-                    "mm_extract": "https://www.dropbox.com/scl/fi/bnani5wyrjwg9qqo8zffm/matchmaker_04_24.mp3?rlkey=38x92hkmd6r42l60ykupxirmn&st=iccyhcor&raw=1",
+                    "mm_extract": "https://dl.dropbox.com/scl/fi/e8pv5cuncgzsv48hqehsc/matchmaker_04_24.mp3?rlkey=1oyftw2uox99bnkc8h3qyqp7n&st=txnl69g2&dl=1",
                     "album": {
                         "photolink": "https://www.dropbox.com/scl/fi/2wn080f9cdp85zmirx4r3/album.jpg?rlkey=3fxnur53nw9c77d32odxiehdy&st=rcp7f52w&raw=1",
                         "description": "Hannah Cohen – Summer Sweat",
