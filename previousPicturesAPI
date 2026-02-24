@@ -2,15 +2,31 @@
   "1": {
     "months": {
       "2febr": {
-        "8": {
+        "7": {
           "episode": "",
+          "episode_date": "2026-02-18",
+          "mm_extract": false,
+          "album": {
+              "photolink": "https://www.dropbox.com/scl/fi/z6v3eh0o8creqnrs9g9f5/album.jpg?rlkey=5tcs1b8uiedoo791prdmhbbt4&st=csyhteqv&raw=1",
+              "description": "Jill Scott",
+              "song": "Jill Scott",
+              "spotifylink": ""
+          },
+          "picture": {
+              "photolink": "https://www.dropbox.com/scl/fi/nzj6njr8a0t4aedc1e9zh/picture.jpg?rlkey=2lduyzk596neecenop6yny4xi&st=8bm8hwuq&raw=1",
+              "description": "OMARA"
+          }
+
+        },
+        "8": {
+          "episode": "https://hellojarat.hu/episode/nora-flowban-frici-fejben-jamaikaban/",
           "episode_date": "2026-02-11",
           "mm_extract": false,
           "album": {
               "photolink": "https://www.dropbox.com/scl/fi/71d9ca4e7mtpjblubj131/album.jpg?rlkey=vvksokc7jtnwep7i8dwoqniwm&st=rbxjmbpm&raw=1",
               "description": "Haai",
               "song": "Haai",
-              "spotifylink": ""
+              "spotifylink": "https://open.spotify.com/track/7KcFwtbT5xcoo3Zkl67vd0?si=1e6ff2c9c115441a"
           },
           "picture": {
               "photolink": "https://www.dropbox.com/scl/fi/io2v9hq05ss7m278r3syq/picture.jpg?rlkey=xp4dbfcnwhl2qf95aodxyj2rh&st=s2mmxkrt&raw=1",
@@ -19,14 +35,14 @@
 
         },
         "9": {
-          "episode": "",
+          "episode": "https://hellojarat.hu/episode/piramis-mor-mellett-frissensult-pizzak-es-bruce-spingsteen-visszater/",
           "episode_date": "2026-02-04",
           "mm_extract": false,
           "album": {
               "photolink": "https://www.dropbox.com/scl/fi/oe6qcdjspyc8axtumzby3/IMG_2004.jpeg?rlkey=001kis5g7saf6az39r7bdq7tx&st=qt6y1tkh&raw=1",
               "description": "Das Druid",
               "song": "Das Druid",
-              "spotifylink": ""
+              "spotifylink": "https://open.spotify.com/track/0lWniJqRoLbPHslst4delI?si=e392528471b24046"
           },
           "picture": {
               "photolink": "https://www.dropbox.com/scl/fi/3k7e3okkb448cdsiyn22o/IMG_2005.jpeg?rlkey=vpisqhkx4zkgat551rea7emmc&st=9xglpt50&raw=1",
@@ -39,14 +55,14 @@
 
           "1jan": {
             "4": {
-                "episode": "",
+                "episode": "https://hellojarat.hu/episode/pontos-konyv-fontos-beszed-es-a-vilag-legkisebb-lemezboltja/",
                 "episode_date": "2026-01-28",
                 "mm_extract": false,
                 "album": {
                     "photolink": "https://www.dropbox.com/scl/fi/zxctq9ak1dzuzpyi0boo3/album.jpg?rlkey=g821gjsx1nk3ufo1l4c11vqyy&st=ahfqt4pd&raw=1",
                     "description": "PSCHYÉ",
                     "song": "PSCHYÉ",
-                    "spotifylink": ""
+                    "spotifylink": "https://open.spotify.com/track/05irNtDAZkl1Nqbdz8aszA?si=a35ec66680ab4495"
                 },
                 "picture": {
                     "photolink": "https://www.dropbox.com/scl/fi/d9wi6y7fpxqqveofr61xd/picture.jpg?rlkey=utbvb0nw63rspxyri8u8kgskc&st=q8hshd3r&raw=1",
@@ -54,14 +70,14 @@
                 }
     },
             "5": {
-                "episode": "",
+                "episode": "https://hellojarat.hu/episode/padel-vita-venezuela-lemez-klub-es-amibol-nem-enegdunk/",
                 "episode_date": "2026-01-21",
                 "mm_extract": false,
                 "album": {
                     "photolink": "https://www.dropbox.com/scl/fi/wsb9finvdd8elnehqa0tg/album.jpg?rlkey=6shmrtffa5or5sdugilau2hfl&st=jczedo8y&raw=1",
                     "description": "Alex Cuba",
                     "song": "Alex Cuba",
-                    "spotifylink": ""
+                    "spotifylink": "https://open.spotify.com/track/3whx5H5CCDyXnkrXgt0nwp?si=d10029c5c05b4539"
                 },
                 "picture": {
                     "photolink": "https://www.dropbox.com/scl/fi/lxb7w97r70uz84f6bshj2/picture.jpg?rlkey=j3ys0z5z9vuk0381zlyphc4c2&st=tv76irml&raw=1",
