@@ -2,6 +2,38 @@
   "1": {
     "months": {
       "3march": {
+        "7": {
+          "episode": "",
+          "episode_date": "2026-03-18",
+          "mm_extract": false,
+          "album": {
+              "photolink": "https://www.dropbox.com/scl/fi/3etpx7immjfpq55s1x2f4/album.jpeg?rlkey=cqvj8ittf6x4ci1m2apvbxzj1&st=8cgfpog9&raw=1",
+              "description": "The Sophs",
+              "song": "The Sophs",
+              "spotifylink": ""
+          },
+          "picture": {
+              "photolink": "https://www.dropbox.com/scl/fi/s7obzbaodphsbx1lasrqg/picture.jpeg?rlkey=yaafq56jm995f8xhh87hhb8j7&st=nhy8uaev&raw=1",
+              "description": "Pinczehelyi Csilla"
+          }
+
+        },
+        "8": {
+          "episode": "",
+          "episode_date": "2026-03-11",
+          "mm_extract": false,
+          "album": {
+              "photolink": "https://www.dropbox.com/scl/fi/6i0okthqeqb4ocu5zepv6/album.jpg?rlkey=cd4x9jblcyf3gxgtw2bc02p0e&st=7tga8jdc&raw=1",
+              "description": "Kwame Nkrumah",
+              "song": "Kwame Nkrumah",
+              "spotifylink": ""
+          },
+          "picture": {
+              "photolink": "https://www.dropbox.com/scl/fi/ung3rb0wnkqj7ytwatvya/picture.jpg?rlkey=3995gn8vbmthu2prf1gnonbh4&st=a4cbtk76&raw=1",
+              "description": "Mario Merz"
+          }
+
+        },
         "9": {
           "episode": "",
           "episode_date": "2026-03-04",
