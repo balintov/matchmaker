@@ -1,6 +1,25 @@
 {
   "1": {
     "months": {
+      "5may": {
+        "4": {
+          "episode": "",
+          "episode_date": "2026-05-06",
+          "mm_extract": false,
+          "album": {
+              "photolink": "https://www.dropbox.com/scl/fi/5gb1cgjk4mppi1tqx37gv/album.jpg?rlkey=ipr0wdsl0uagguwefgiq545rq&st=e4mtbj80&raw=1",
+              "description": "Jazz Room Records // Coverz",
+              "song": "Jazz Room Records // Coverz",
+              "spotifylink": ""
+          },
+          "picture": {
+              "photolink": "https://www.dropbox.com/scl/fi/5sjtbeszs8fpaz8ithvb0/picture.jpg?rlkey=0cz91u5cdferht4nzmhv9cwxy&st=i8h0irm9&raw=1",
+              "description": "Losonczy István"
+          }
+
+        }
+
+      },
       "4april": {
         "4": {
           "episode": "",
