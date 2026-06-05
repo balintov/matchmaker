@@ -1,7 +1,41 @@
 {
   "1": {
     "months": {
+      "6june": {
+        "4": {
+          "episode": "",
+          "episode_date": "2026-06-03",
+          "mm_extract": false,
+          "album": {
+              "photolink": "https://www.dropbox.com/scl/fi/fqjsmhh55ahcw5s579uqq/album.jpg?rlkey=b1tc3mu1wrm5spnv0pyk7i989&st=7cnl9mhl&raw=1",
+              "description": "Vince Staples",
+              "song": "Vince Staples",
+              "spotifylink": ""
+          },
+          "picture": {
+              "photolink": "https://www.dropbox.com/scl/fi/gy17ayoxx4vp4yez9esv6/picture.jpg?rlkey=e0yw63jcc3omajwdtnqn6c6mo&st=bgbcg899&raw=1",
+              "description": "Dr. Máriás"
+          }
+
+        }
+
+      },
       "5may": {
+        "1": {
+          "episode": "",
+          "episode_date": "2026-05-27",
+          "mm_extract": false,
+          "album": {
+              "photolink": "https://www.dropbox.com/scl/fi/wcpt5204q40iqtf0wqucy/vinyl.jpg?rlkey=zsahjw8xooccojvkc61q1ki8t&st=fjj540k9&raw=1",
+              "description": "Nobat",
+              "song": "Nobat",
+              "spotifylink": ""
+          },
+          "picture": {
+              "photolink": "https://www.dropbox.com/scl/fi/cdx681rf3izfnkwhea0d8/picture.jpg?rlkey=r1rasl9jx90gdmdazcqngqm0s&st=abq9pu2u&raw=1",
+              "description": "Edvard Munch"
+          }
+        },
         "2": {
           "episode": "",
           "episode_date": "2026-05-20",
