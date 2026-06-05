@@ -1,11 +1,11 @@
 {
-    "air_time": "2026-06-03",
+    "air_time": "2026-06-10",
     "album": {
-        "photolink": "https://www.dropbox.com/scl/fi/fqjsmhh55ahcw5s579uqq/album.jpg?rlkey=b1tc3mu1wrm5spnv0pyk7i989&st=7cnl9mhl&raw=1",
-        "description": "Vince Staples"
+        "photolink": "https://www.dropbox.com/scl/fi/3aa0d35sotnzqb7assgx2/question-album.jpg?rlkey=h7f7z1l49dkxrzmhodtby0qsw&st=2r6cuv2e&raw=1",
+        "description": "album"
     },
     "picture": {
-        "photolink": "https://www.dropbox.com/scl/fi/gy17ayoxx4vp4yez9esv6/picture.jpg?rlkey=e0yw63jcc3omajwdtnqn6c6mo&st=bgbcg899&raw=1",
-        "description": "Dr. Máriás"
+        "photolink": "https://www.dropbox.com/scl/fi/82g1zkkuzy2rokuzxefbr/question-painting.jpg?rlkey=nif5szp7gvpgeasv2cditztgx&st=ntmqslld&raw=1",
+        "description": "picture"
     }
 }
