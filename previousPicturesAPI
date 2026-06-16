@@ -2,6 +2,38 @@
   "1": {
     "months": {
       "6june": {
+        "2": {
+          "episode": "",
+          "episode_date": "2026-06-17",
+          "mm_extract": false,
+          "album": {
+              "photolink": "https://www.dropbox.com/scl/fi/1obcep55hd7xw0ks6zn9v/album.jpg?rlkey=b3yihbs4awfw0mbb3wxvmnewt&st=den8c3yh&raw=1",
+              "description": "Iceage",
+              "song": "Iceage",
+              "spotifylink": ""
+          },
+          "picture": {
+              "photolink": "https://www.dropbox.com/scl/fi/ezylh4t542hth08vnasln/picture.jpg?rlkey=88cp5x6vjhaa083bepsdre005&st=80rgbl4j&raw=1",
+              "description": "Vaszary János"
+          }
+
+        },
+        "3": {
+          "episode": "",
+          "episode_date": "2026-06-10",
+          "mm_extract": false,
+          "album": {
+              "photolink": "https://www.dropbox.com/scl/fi/a8tfg73sluf4fvqyaoj1t/album.jpg?rlkey=jclh2x1073qyk0bkbe59y079y&st=ncs9rvbz&raw=1",
+              "description": "Candy Truck",
+              "song": "Candy Truck",
+              "spotifylink": ""
+          },
+          "picture": {
+              "photolink": "https://www.dropbox.com/scl/fi/z0aq4ic2fb8xkzmethpzy/picture.jpg?rlkey=f39p3zbt9o72c2soouyqdkc3u&st=8wh9rvss&raw=1",
+              "description": "Martin Parr"
+          }
+
+        },
         "4": {
           "episode": "",
           "episode_date": "2026-06-03",
