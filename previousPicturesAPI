@@ -1,5 +1,23 @@
 {"1": {
         "months": {
+          "2_october": {
+            "9": {
+                "episode": "",
+                "episode_date": "2026-10-07",
+                "mm_extract": false,
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/poj5unof8khh5iyfa611u/album.jpg?rlkey=peom3asmycnr8ont1uqv13mwp&st=op2ndg8m&raw=1",
+                    "description": "EZRA Collective",
+                    "song": "EZRA Collective",
+                    "spotifylink": ""
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/vj1ygdclajc73ib9ovv5h/picture.jpg?rlkey=rctjr6rn3zk667xg9aj53lo8w&st=pd6cgct2&raw=1",
+                    "description": "Keith Haring"
+                }
+            }
+
+          },
             "1_september": {
               "8": {
                   "episode": "",
