@@ -3,6 +3,21 @@
           "2_october": {
             "9": {
                 "episode": "",
+                "episode_date": "2026-10-21",
+                "mm_extract": false,
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/oebxq9rw0ohaawitykdmw/album.jpg?rlkey=6iqzkbbvvb7gw9qbv5s164m53&st=n8f43f0r&raw=1",
+                    "description": "Ella Thompson",
+                    "song": "Ella Thompson",
+                    "spotifylink": ""
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/z6pyx3ud2q2ud8b2edt22/picture.jpg?rlkey=nepkn4krl3toazmel2kx6s3df&st=amdk4xw4&raw=1",
+                    "description": "Gulyás Kati"
+                }
+            },
+            "9": {
+                "episode": "",
                 "episode_date": "2026-10-07",
                 "mm_extract": false,
                 "album": {
