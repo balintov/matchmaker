@@ -1,6 +1,21 @@
 {"1": {
         "months": {
           "2_october": {
+            "7": {
+                "episode": "",
+                "episode_date": "2026-10-28",
+                "mm_extract": false,
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/jyctkzjzvvgzry1iizxgn/album.jpg?rlkey=aqa98bx6tkdud305xmol2lu80&st=96mli73z&raw=1",
+                    "description": "Danielle Ponder",
+                    "song": "Danielle Ponder",
+                    "spotifylink": ""
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/z04leou3ji3l7oucny7al/picture.jpeg?rlkey=burkaoc694xcvpmlhwq7c12um&st=h2hky1lo&raw=1",
+                    "description": "Louise Bourgeois"
+                }
+            },
             "8": {
                 "episode": "",
                 "episode_date": "2026-10-21",
