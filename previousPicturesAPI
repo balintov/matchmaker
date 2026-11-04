@@ -1,7 +1,25 @@
 {"1": {
         "months": {
-          "2_october": {
+          "3_November": {
             "7": {
+                "episode": "",
+                "episode_date": "2026-11-04",
+                "mm_extract": false,
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/t79ezedlev19ulhwb4102/album.jpg?rlkey=ligti6ue2prmtkv7767708tmk&st=vddft0wd&raw=1",
+                    "description": "Nix and The Nothings",
+                    "song": "Nix and The Nothings",
+                    "spotifylink": ""
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/j2xhq59bw4rj32zhxoe5z/picture.jpg?rlkey=oguhg8wq464jqpmhxptpt08lz&st=t2cnnhae&raw=1",
+                    "description": "Salvador Dali"
+                }
+            }
+
+          },
+          "2_october": {
+            "6": {
                 "episode": "",
                 "episode_date": "2026-10-28",
                 "mm_extract": false,
@@ -16,7 +34,7 @@
                     "description": "Louise Bourgeois"
                 }
             },
-            "8": {
+            "7": {
                 "episode": "",
                 "episode_date": "2026-10-21",
                 "mm_extract": false,
@@ -29,6 +47,21 @@
                 "picture": {
                     "photolink": "https://www.dropbox.com/scl/fi/z6pyx3ud2q2ud8b2edt22/picture.jpg?rlkey=nepkn4krl3toazmel2kx6s3df&st=amdk4xw4&raw=1",
                     "description": "Gulyás Kati"
+                }
+            },
+            "8": {
+                "episode": "",
+                "episode_date": "2026-10-14",
+                "mm_extract": false,
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/jcbv33u2ijy4d1rgdu66r/album.jpg?rlkey=wlpprwzj2j8r72i3sq0xjt5vh&st=fgrks8ni&raw=1",
+                    "description": "Joyce Moreno",
+                    "song": "Joyce Moreno",
+                    "spotifylink": ""
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/dri4kp2s8b1rcaca7g106/picture.jpeg?rlkey=e09ob0rcvsdbwjhvk7khm3wqj&st=twib66g4&raw=1",
+                    "description": "Horváth Lóczi Judit"
                 }
             },
             "9": {
