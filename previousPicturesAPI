@@ -1,6 +1,21 @@
 {"1": {
         "months": {
           "3_November": {
+            "6": {
+                "episode": "",
+                "episode_date": "2026-11-11",
+                "mm_extract": false,
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/ki9ddkdu8jqvc4ad3kjpn/album.jpg?rlkey=t9yp5ssdwmebpuyi75x5gzzjg&st=r02wh8v7&raw=1",
+                    "description": "Django Django",
+                    "song": "Django Django",
+                    "spotifylink": ""
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/jgbbhgwywtbi3cp75c8vo/picture.jpg?rlkey=pm8o9ygusnqcsv4n8gny7f6nz&st=jaxbgxwu&raw=1",
+                    "description": "Esterházy Marcell"
+                }
+            },
             "7": {
                 "episode": "",
                 "episode_date": "2026-11-04",
