@@ -1,6 +1,21 @@
 {"1": {
         "months": {
           "3_November": {
+            "5": {
+                "episode": "",
+                "episode_date": "2026-11-18",
+                "mm_extract": false,
+                "album": {
+                    "photolink": "https://www.dropbox.com/scl/fi/8b3jd5mebp0jlhg8ml6i1/album.jpg?rlkey=030gaklyptd4tab1he7qhn8b3&st=lbm903oy&raw=1",
+                    "description": "Tom Tom Club",
+                    "song": "Tom Tom Club",
+                    "spotifylink": ""
+                },
+                "picture": {
+                    "photolink": "https://www.dropbox.com/scl/fi/nc1a3t1u3rj3kq0biy4rv/picture.jpg?rlkey=qinqm255ob2rij8wpz9m8r6fc&st=4786hi38&raw=1",
+                    "description": "Zuzu-Vetö"
+                }
+            },
             "6": {
                 "episode": "",
                 "episode_date": "2026-11-11",
